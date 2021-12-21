@@ -1,0 +1,76 @@
+# Ecosystem Level Information
+title = "Obsidian"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/obsidianproject"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/obsidianproject/Blockexplorer"
+
+[[repo]]
+url = "https://github.com/obsidianproject/BlockExplorer_AddressLookup"
+
+[[repo]]
+url = "https://github.com/obsidianproject/coinbin"
+
+[[repo]]
+url = "https://github.com/obsidianproject/CoreWallet"
+
+[[repo]]
+url = "https://github.com/obsidianproject/Messenger"
+
+[[repo]]
+url = "https://github.com/obsidianproject/MessengerAndroid"
+
+[[repo]]
+url = "https://github.com/obsidianproject/Nako"
+
+[[repo]]
+url = "https://github.com/obsidianproject/NewYearsResolutions"
+
+[[repo]]
+url = "https://github.com/obsidianproject/NObsidian"
+
+[[repo]]
+url = "https://github.com/obsidianproject/Obsidian-Qt"
+
+[[repo]]
+url = "https://github.com/obsidianproject/Obsidian-StratisNode"
+
+[[repo]]
+url = "https://github.com/obsidianproject/Obsidian-StratisWallet"
+
+[[repo]]
+url = "https://github.com/obsidianproject/ObsidianAssets"
+
+[[repo]]
+url = "https://github.com/obsidianproject/ObsidianExchange"
+
+[[repo]]
+url = "https://github.com/obsidianproject/ObsidianMessenger"
+
+[[repo]]
+url = "https://github.com/obsidianproject/ObsidianStratisNode"
+
+[[repo]]
+url = "https://github.com/obsidianproject/ObsidianX"
+
+[[repo]]
+url = "https://github.com/obsidianproject/ObsidianXXL"
+
+[[repo]]
+url = "https://github.com/obsidianproject/ODNBurner"
+
+[[repo]]
+url = "https://github.com/obsidianproject/slack_tipbot"
+
+[[repo]]
+url = "https://github.com/obsidianproject/temp"
+
+[[repo]]
+url = "https://github.com/obsidianproject/X1"
+
+[[repo]]
+url = "https://github.com/obsidianproject/X1Wallet"

@@ -1,0 +1,73 @@
+# Ecosystem Level Information
+title = "Nsure Network"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/nsure-tech"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/nsure-tech/app_frontend"
+
+[[repo]]
+url = "https://github.com/nsure-tech/assets"
+
+[[repo]]
+url = "https://github.com/nsure-tech/claim-backend"
+
+[[repo]]
+url = "https://github.com/nsure-tech/claim-management"
+
+[[repo]]
+url = "https://github.com/nsure-tech/core-contracts"
+
+[[repo]]
+url = "https://github.com/nsure-tech/DeFi-Pulse-Adapters"
+
+[[repo]]
+url = "https://github.com/nsure-tech/dot-contract"
+
+[[repo]]
+url = "https://github.com/nsure-tech/dot.nsure.network"
+
+[[repo]]
+url = "https://github.com/nsure-tech/Grant-Milestone-Delivery"
+
+[[repo]]
+url = "https://github.com/nsure-tech/h5.nsure.network"
+
+[[repo]]
+url = "https://github.com/nsure-tech/lbp-sale-page"
+
+[[repo]]
+url = "https://github.com/nsure-tech/matic.nsure"
+
+[[repo]]
+url = "https://github.com/nsure-tech/moonbeam"
+
+[[repo]]
+url = "https://github.com/nsure-tech/mvp-contract"
+
+[[repo]]
+url = "https://github.com/nsure-tech/mvp.nsure.network"
+
+[[repo]]
+url = "https://github.com/nsure-tech/nsure.network"
+
+[[repo]]
+url = "https://github.com/nsure-tech/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/nsure-tech/staking-game"
+
+[[repo]]
+url = "https://github.com/nsure-tech/staking-game-frontend"
+
+[[repo]]
+url = "https://github.com/nsure-tech/substrate-nsure-module"
+
+[[repo]]
+url = "https://github.com/nsure-tech/token-profile"
+
+[[repo]]
+url = "https://github.com/nsure-tech/underwriter-program"

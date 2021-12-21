@@ -1,0 +1,211 @@
+# Ecosystem Level Information
+title = "Shift"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/ShiftNrg"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/ShiftNrg/api"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/API_Documentation"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/apps"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/apps-ng"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/assets"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/auto-publish"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/clapp"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/cumulus"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/cumulus-workshop"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/dapp-icarus"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/dapp-phantom"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/decompress-zip"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/ethereum-developer-tools-list"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/General-Grants-Program"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/Grant-Milestone-Delivery"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/hello-world-by-polkadot"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/ipfs"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/ipfs-cluster"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/jenga"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/js-nacl"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/json-sql"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/lisk-sandbox"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/lisk-shift-api"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/migrate-to-substrate"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/node-ip"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/offlineShiftWebsite"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/Phoenix"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/Phoenix-Cluster"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/pinning-services-api-spec"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/polkadot"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/polkadot-k8s"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/polkadot-secure-validator"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/polkaview.network"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/proof-of-capacity"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/react-typescript-cheatsheet"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-apps-sdk"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-checker"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-cli"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-cluster-setup"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-dashboard"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-explorer"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-explorer-prototype"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-faq"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-faucet"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-hydra"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-js"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-lisk"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-nano"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-node"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-paperwallet"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-sandbox"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-substrate"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-substrate-core"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-wallet"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-website"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shift-wiki"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shiftnrg"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/ShiftNrg-Community-Info"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/shiftnrg.org"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/storj"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/substrate"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/substrate-front-end-template"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/substrate-parachain-template"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/substrate-telemetry"
+
+[[repo]]
+url = "https://github.com/ShiftNrg/wrappedShift"

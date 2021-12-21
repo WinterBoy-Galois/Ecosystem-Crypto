@@ -1,0 +1,247 @@
+# Ecosystem Level Information
+title = "Dusk Network"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/dusk-network"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/dusk-network/.github"
+
+[[repo]]
+url = "https://github.com/dusk-network/avltree"
+
+[[repo]]
+url = "https://github.com/dusk-network/bls12-381-sig"
+
+[[repo]]
+url = "https://github.com/dusk-network/bls12_381"
+
+[[repo]]
+url = "https://github.com/dusk-network/bls12_381-sign"
+
+[[repo]]
+url = "https://github.com/dusk-network/bls12_381-sign-go"
+
+[[repo]]
+url = "https://github.com/dusk-network/bn256"
+
+[[repo]]
+url = "https://github.com/dusk-network/bulletproofs"
+
+[[repo]]
+url = "https://github.com/dusk-network/bulletproofs_gadgets"
+
+[[repo]]
+url = "https://github.com/dusk-network/cake-rusk"
+
+[[repo]]
+url = "https://github.com/dusk-network/canonical"
+
+[[repo]]
+url = "https://github.com/dusk-network/cargo-bake"
+
+[[repo]]
+url = "https://github.com/dusk-network/cargo-dusk-analyzer"
+
+[[repo]]
+url = "https://github.com/dusk-network/curve25519-dalek"
+
+[[repo]]
+url = "https://github.com/dusk-network/dataview"
+
+[[repo]]
+url = "https://github.com/dusk-network/docker-elk"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-abi"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-blindbid"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-blindbidproof"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-blockchain"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-bytes"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-crypto"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-example-contract"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-explorer"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-go-poseidon"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-hamt"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-infra"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-ipc"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-kelvin-map"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-light-node"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-pki"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-poseidon-merkle"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-protobuf"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-reference"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-tlv"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-uds"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-varint"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-wallet"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-wallet-cli"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-wallet-rpc"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-zerocaf"
+
+[[repo]]
+url = "https://github.com/dusk-network/dusk-zkproof"
+
+[[repo]]
+url = "https://github.com/dusk-network/EdDSA"
+
+[[repo]]
+url = "https://github.com/dusk-network/ElGamal"
+
+[[repo]]
+url = "https://github.com/dusk-network/fermion"
+
+[[repo]]
+url = "https://github.com/dusk-network/gasmonitor"
+
+[[repo]]
+url = "https://github.com/dusk-network/go-analyzer"
+
+[[repo]]
+url = "https://github.com/dusk-network/Hades252"
+
+[[repo]]
+url = "https://github.com/dusk-network/jubjub"
+
+[[repo]]
+url = "https://github.com/dusk-network/kadcast"
+
+[[repo]]
+url = "https://github.com/dusk-network/kelvin"
+
+[[repo]]
+url = "https://github.com/dusk-network/merkle-benchmarks"
+
+[[repo]]
+url = "https://github.com/dusk-network/microkelvin"
+
+[[repo]]
+url = "https://github.com/dusk-network/MLSAG"
+
+[[repo]]
+url = "https://github.com/dusk-network/nstack"
+
+[[repo]]
+url = "https://github.com/dusk-network/phoenix"
+
+[[repo]]
+url = "https://github.com/dusk-network/phoenix-abi"
+
+[[repo]]
+url = "https://github.com/dusk-network/phoenix-core"
+
+[[repo]]
+url = "https://github.com/dusk-network/plonk"
+
+[[repo]]
+url = "https://github.com/dusk-network/plonk_gadgets"
+
+[[repo]]
+url = "https://github.com/dusk-network/plonkup"
+
+[[repo]]
+url = "https://github.com/dusk-network/poseidon252"
+
+[[repo]]
+url = "https://github.com/dusk-network/poseidon252-hash"
+
+[[repo]]
+url = "https://github.com/dusk-network/presentations"
+
+[[repo]]
+url = "https://github.com/dusk-network/prestaking-contract"
+
+[[repo]]
+url = "https://github.com/dusk-network/prestaking-provisioner"
+
+[[repo]]
+url = "https://github.com/dusk-network/reinforced-concrete"
+
+[[repo]]
+url = "https://github.com/dusk-network/rkyv"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk-abi"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk-contract"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk-mirror"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk-schema"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk-vm"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk-vm-CI-test"
+
+[[repo]]
+url = "https://github.com/dusk-network/rusk-vm-mirror"
+
+[[repo]]
+url = "https://github.com/dusk-network/schnorr"
+
+[[repo]]
+url = "https://github.com/dusk-network/sonny-dh"
+
+[[repo]]
+url = "https://github.com/dusk-network/tools"
+
+[[repo]]
+url = "https://github.com/dusk-network/whitepaper"

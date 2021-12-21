@@ -1,0 +1,46 @@
+# Ecosystem Level Information
+title = "StablePay"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/StablePay"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/StablePay/assets"
+
+[[repo]]
+url = "https://github.com/StablePay/contracts-v1"
+
+[[repo]]
+url = "https://github.com/StablePay/documentation"
+
+[[repo]]
+url = "https://github.com/StablePay/hackmoney"
+
+[[repo]]
+url = "https://github.com/StablePay/protocols"
+
+[[repo]]
+url = "https://github.com/StablePay/sdk"
+
+[[repo]]
+url = "https://github.com/StablePay/sdk_l2"
+
+[[repo]]
+url = "https://github.com/StablePay/solidity-template"
+
+[[repo]]
+url = "https://github.com/StablePay/stablepay_contracts_ethsf"
+
+[[repo]]
+url = "https://github.com/StablePay/stablepay_contracts_old"
+
+[[repo]]
+url = "https://github.com/StablePay/stablepay_ui"
+
+[[repo]]
+url = "https://github.com/StablePay/token-subscription"
+
+[[repo]]
+url = "https://github.com/StablePay/web-v2"

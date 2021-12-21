@@ -1,0 +1,109 @@
+# Ecosystem Level Information
+title = "Infura"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/INFURA"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/INFURA/asg-instance-refresh"
+
+[[repo]]
+url = "https://github.com/INFURA/aws-ebs-csi-driver"
+
+[[repo]]
+url = "https://github.com/INFURA/ChainBridge"
+
+[[repo]]
+url = "https://github.com/INFURA/data-transport-layer"
+
+[[repo]]
+url = "https://github.com/INFURA/demo-eth-tx"
+
+[[repo]]
+url = "https://github.com/INFURA/developer-resources"
+
+[[repo]]
+url = "https://github.com/INFURA/devp2p-network"
+
+[[repo]]
+url = "https://github.com/INFURA/dockerfiles"
+
+[[repo]]
+url = "https://github.com/INFURA/eth2-comply"
+
+[[repo]]
+url = "https://github.com/INFURA/ethdenver-2019"
+
+[[repo]]
+url = "https://github.com/INFURA/etherchain-light"
+
+[[repo]]
+url = "https://github.com/INFURA/ethql-examples"
+
+[[repo]]
+url = "https://github.com/INFURA/geth"
+
+[[repo]]
+url = "https://github.com/INFURA/go-datastore"
+
+[[repo]]
+url = "https://github.com/INFURA/go-ds-measure"
+
+[[repo]]
+url = "https://github.com/INFURA/go-ethereum-custom-tlm"
+
+[[repo]]
+url = "https://github.com/INFURA/go-ethlibs"
+
+[[repo]]
+url = "https://github.com/INFURA/go-ipfs-datadog-plugin"
+
+[[repo]]
+url = "https://github.com/INFURA/go-libs"
+
+[[repo]]
+url = "https://github.com/INFURA/hackathons"
+
+[[repo]]
+url = "https://github.com/INFURA/infura"
+
+[[repo]]
+url = "https://github.com/INFURA/ipfs-copy"
+
+[[repo]]
+url = "https://github.com/INFURA/ipfs-http-api-docs-archived"
+
+[[repo]]
+url = "https://github.com/INFURA/ipfs-pump"
+
+[[repo]]
+url = "https://github.com/INFURA/keyrouter"
+
+[[repo]]
+url = "https://github.com/INFURA/lotus"
+
+[[repo]]
+url = "https://github.com/INFURA/pipeline-input-step-plugin"
+
+[[repo]]
+url = "https://github.com/INFURA/quickBlocks"
+
+[[repo]]
+url = "https://github.com/INFURA/quorum-tools"
+
+[[repo]]
+url = "https://github.com/INFURA/rpc_sanity_test"
+
+[[repo]]
+url = "https://github.com/INFURA/tutorials"
+
+[[repo]]
+url = "https://github.com/INFURA/versus"
+
+[[repo]]
+url = "https://github.com/INFURA/witti"
+
+[[repo]]
+url = "https://github.com/INFURA/www"

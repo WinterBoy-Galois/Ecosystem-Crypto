@@ -1,0 +1,265 @@
+# Ecosystem Level Information
+title = "Winding Tree"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/windingtree"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/windingtree/animated-logo"
+
+[[repo]]
+url = "https://github.com/windingtree/arbor-backend"
+
+[[repo]]
+url = "https://github.com/windingtree/arbor-frontend"
+
+[[repo]]
+url = "https://github.com/windingtree/booking-api"
+
+[[repo]]
+url = "https://github.com/windingtree/branding"
+
+[[repo]]
+url = "https://github.com/windingtree/companies"
+
+[[repo]]
+url = "https://github.com/windingtree/crypto-booking"
+
+[[repo]]
+url = "https://github.com/windingtree/dao"
+
+[[repo]]
+url = "https://github.com/windingtree/debugging-tools"
+
+[[repo]]
+url = "https://github.com/windingtree/developer-portal"
+
+[[repo]]
+url = "https://github.com/windingtree/developers"
+
+[[repo]]
+url = "https://github.com/windingtree/DIPs"
+
+[[repo]]
+url = "https://github.com/windingtree/docs"
+
+[[repo]]
+url = "https://github.com/windingtree/erc827"
+
+[[repo]]
+url = "https://github.com/windingtree/eth-workshop"
+
+[[repo]]
+url = "https://github.com/windingtree/ethereum-swarm-node"
+
+[[repo]]
+url = "https://github.com/windingtree/glider-aggregator"
+
+[[repo]]
+url = "https://github.com/windingtree/glider-insurance"
+
+[[repo]]
+url = "https://github.com/windingtree/glider-ota"
+
+[[repo]]
+url = "https://github.com/windingtree/go-orgid"
+
+[[repo]]
+url = "https://github.com/windingtree/homepage"
+
+[[repo]]
+url = "https://github.com/windingtree/intergram"
+
+[[repo]]
+url = "https://github.com/windingtree/lif-presale"
+
+[[repo]]
+url = "https://github.com/windingtree/lif-token"
+
+[[repo]]
+url = "https://github.com/windingtree/lif2"
+
+[[repo]]
+url = "https://github.com/windingtree/mvm-stats"
+
+[[repo]]
+url = "https://github.com/windingtree/off-chain-adapter-http"
+
+[[repo]]
+url = "https://github.com/windingtree/off-chain-adapter-in-memory"
+
+[[repo]]
+url = "https://github.com/windingtree/off-chain-adapter-swarm"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-bot"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-directories"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-lif-deposit"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-marketplace"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-resolver"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-sandbox"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-sdk"
+
+[[repo]]
+url = "https://github.com/windingtree/org.id-tools"
+
+[[repo]]
+url = "https://github.com/windingtree/org.json-schema"
+
+[[repo]]
+url = "https://github.com/windingtree/orgid-creator"
+
+[[repo]]
+url = "https://github.com/windingtree/orgid-explorer"
+
+[[repo]]
+url = "https://github.com/windingtree/orgid-explorer-cache"
+
+[[repo]]
+url = "https://github.com/windingtree/orgid-subgraph"
+
+[[repo]]
+url = "https://github.com/windingtree/orgid-tutorial"
+
+[[repo]]
+url = "https://github.com/windingtree/orgids"
+
+[[repo]]
+url = "https://github.com/windingtree/ota-simulator"
+
+[[repo]]
+url = "https://github.com/windingtree/payment-manager"
+
+[[repo]]
+url = "https://github.com/windingtree/rooms"
+
+[[repo]]
+url = "https://github.com/windingtree/secure-env-cli"
+
+[[repo]]
+url = "https://github.com/windingtree/smart-contracts-libraries"
+
+[[repo]]
+url = "https://github.com/windingtree/smart-contracts-tools"
+
+[[repo]]
+url = "https://github.com/windingtree/travel-ui"
+
+[[repo]]
+url = "https://github.com/windingtree/trust-clue-curated-list"
+
+[[repo]]
+url = "https://github.com/windingtree/trust-clue-lif-deposit"
+
+[[repo]]
+url = "https://github.com/windingtree/upgradeable-token-labs"
+
+[[repo]]
+url = "https://github.com/windingtree/vesting-contract"
+
+[[repo]]
+url = "https://github.com/windingtree/white-paper"
+
+[[repo]]
+url = "https://github.com/windingtree/white-paper-v2"
+
+[[repo]]
+url = "https://github.com/windingtree/wiki"
+
+[[repo]]
+url = "https://github.com/windingtree/winding-tree"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-airline-schemas"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-booking-api"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-contracts"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-demo-app"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-fixtures"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-fixtures-refresh-lambda"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-guarantee-generator"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-hackathon"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-hotel-explorer"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-hotel-schemas"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-index-debugger"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-js-libs"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-media"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-notification-api"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-organization-schemas"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-ota-schemas"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-pricing-algorithms"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-read-api"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-search-api"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-shared-schemas"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-ui"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-ui-assets"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-ui-react"
+
+[[repo]]
+url = "https://github.com/windingtree/wt-write-api"
+
+[[repo]]
+url = "https://github.com/windingtree/wtips"
+
+[[repo]]
+url = "https://github.com/windingtree/zOS-labs"

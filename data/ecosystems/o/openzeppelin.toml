@@ -1,0 +1,229 @@
+# Ecosystem Level Information
+title = "OpenZeppelin"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/OpenZeppelin"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/OpenZeppelin/awesome-openzeppelin"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/cairo-contracts"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/chai-bn"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/code-style"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/contracts-wizard"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/crafty"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/cto.openzeppelin.com"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/damn-vulnerable-defi"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/defender-autotask-examples"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/defender-docs"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/defender-example-metatx-relay"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/docs-preview-script"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/docs-utils"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/docs.openzeppelin.com"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/EIPs"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/erc20-onboarding"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/ethereumjs-vm-coverage"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/ethernaut"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/exploit-uniswap"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/futureswap-artifacts"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/fuzzy-import-parser"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/ganache-core-coverage"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/gnosis-multisig"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/gsn-relayer"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/gsn-sample-chat_app"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/gsn-site"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/gsn-tools"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/ink"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/json-rpc-engine"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/netlify-redirects"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-contract-loader"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-contracts"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-contracts-docs"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-gsn-helpers"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-gsn-provider"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-labs"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-loader"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-network.js"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-sdk"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-subgraphs"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-team-nft"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-test-environment"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-test-helpers"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-token-registry"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-transpiler"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-upgrades"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-upgrades-migration-example"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-whitepaper"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin.com"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin.org"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/oz-devops"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/proxy-explorer"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/research-cryptography"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/resolver-engine"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/sample-crowdsale-starter"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/slack.openzeppelin.org"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/solidity-ast"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/solidity-docgen"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/solidity-jwt"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/solidity-loader"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/starter-kit"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/starter-kit-gsn"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/starter-kit-tutorial"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/tabookey-gasless"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/tech-coaching"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/test-env"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/token-vesting-ui"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/token-vouching"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/upgrades-safe-app"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/web3-gsn-faucet-provider"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/workshops"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/zeppelin.solutions"

@@ -1,0 +1,121 @@
+# Ecosystem Level Information
+title = "Witnet"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/witnet"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/witnet/aragon-govern-discord-integration"
+
+[[repo]]
+url = "https://github.com/witnet/async-jsonrpc-client"
+
+[[repo]]
+url = "https://github.com/witnet/bls-bn128"
+
+[[repo]]
+url = "https://github.com/witnet/bls-signatures-rs"
+
+[[repo]]
+url = "https://github.com/witnet/bls-solidity"
+
+[[repo]]
+url = "https://github.com/witnet/bn"
+
+[[repo]]
+url = "https://github.com/witnet/cbor-codec"
+
+[[repo]]
+url = "https://github.com/witnet/community-bot"
+
+[[repo]]
+url = "https://github.com/witnet/data-feed-app"
+
+[[repo]]
+url = "https://github.com/witnet/documentation"
+
+[[repo]]
+url = "https://github.com/witnet/elliptic-curve-solidity"
+
+[[repo]]
+url = "https://github.com/witnet/foundation-website"
+
+[[repo]]
+url = "https://github.com/witnet/genesis_block"
+
+[[repo]]
+url = "https://github.com/witnet/marketplace-api"
+
+[[repo]]
+url = "https://github.com/witnet/ntp"
+
+[[repo]]
+url = "https://github.com/witnet/protobuf-convert"
+
+[[repo]]
+url = "https://github.com/witnet/research"
+
+[[repo]]
+url = "https://github.com/witnet/sheikah"
+
+[[repo]]
+url = "https://github.com/witnet/sheikah-website"
+
+[[repo]]
+url = "https://github.com/witnet/token-generation-event-tools"
+
+[[repo]]
+url = "https://github.com/witnet/truffle-box"
+
+[[repo]]
+url = "https://github.com/witnet/truffle-flattener"
+
+[[repo]]
+url = "https://github.com/witnet/ts-slip32"
+
+[[repo]]
+url = "https://github.com/witnet/vrf-rs"
+
+[[repo]]
+url = "https://github.com/witnet/vrf-solidity"
+
+[[repo]]
+url = "https://github.com/witnet/website"
+
+[[repo]]
+url = "https://github.com/witnet/WIPs"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-bounties"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-ethereum-block-relay"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-ethereum-bridge"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-operator-tools"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-price-feed-examples"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-pricefeed-tutorial"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-radon-js"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-requests-js"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-rust"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-solidity-bridge"
+
+[[repo]]
+url = "https://github.com/witnet/witty-creatures"

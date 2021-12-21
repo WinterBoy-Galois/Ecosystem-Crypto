@@ -1,0 +1,100 @@
+# Ecosystem Level Information
+title = "QuarkChain"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/QuarkChain"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/QuarkChain/chains"
+
+[[repo]]
+url = "https://github.com/QuarkChain/coolwallet3-sdk"
+
+[[repo]]
+url = "https://github.com/QuarkChain/crowdsale-whitelist"
+
+[[repo]]
+url = "https://github.com/QuarkChain/dollar"
+
+[[repo]]
+url = "https://github.com/QuarkChain/equalizer-info"
+
+[[repo]]
+url = "https://github.com/QuarkChain/ethminer"
+
+[[repo]]
+url = "https://github.com/QuarkChain/go-ethereum"
+
+[[repo]]
+url = "https://github.com/QuarkChain/goqkcclient"
+
+[[repo]]
+url = "https://github.com/QuarkChain/goquarkchain"
+
+[[repo]]
+url = "https://github.com/QuarkChain/ledger-qkc-app"
+
+[[repo]]
+url = "https://github.com/QuarkChain/open-cryptofate"
+
+[[repo]]
+url = "https://github.com/QuarkChain/pyquarkchain"
+
+[[repo]]
+url = "https://github.com/QuarkChain/QCEPs"
+
+[[repo]]
+url = "https://github.com/QuarkChain/qkcDataService"
+
+[[repo]]
+url = "https://github.com/QuarkChain/Qkchash_CPU_Miner"
+
+[[repo]]
+url = "https://github.com/QuarkChain/QKCMonitor"
+
+[[repo]]
+url = "https://github.com/QuarkChain/QPocket-Android"
+
+[[repo]]
+url = "https://github.com/QuarkChain/QPocket-iOS"
+
+[[repo]]
+url = "https://github.com/QuarkChain/qswap-core"
+
+[[repo]]
+url = "https://github.com/QuarkChain/qswap-periphery"
+
+[[repo]]
+url = "https://github.com/QuarkChain/quarkchain-contracts"
+
+[[repo]]
+url = "https://github.com/QuarkChain/quarkchain-native-token"
+
+[[repo]]
+url = "https://github.com/QuarkChain/quarkchain-web3.js"
+
+[[repo]]
+url = "https://github.com/QuarkChain/quarkchain-web3j"
+
+[[repo]]
+url = "https://github.com/QuarkChain/relayer"
+
+[[repo]]
+url = "https://github.com/QuarkChain/tendermintx"
+
+[[repo]]
+url = "https://github.com/QuarkChain/tqkc-bounty-lottery"
+
+[[repo]]
+url = "https://github.com/QuarkChain/tron-web"
+
+[[repo]]
+url = "https://github.com/QuarkChain/uniswap-info"
+
+[[repo]]
+url = "https://github.com/QuarkChain/uniswap-v2-sdk"
+
+[[repo]]
+url = "https://github.com/QuarkChain/uniswap-v3-core"

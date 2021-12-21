@@ -1,0 +1,187 @@
+# Ecosystem Level Information
+title = "Chia"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Chia-Network"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Chia-Network/actions"
+
+[[repo]]
+url = "https://github.com/Chia-Network/actions-runner-controller"
+
+[[repo]]
+url = "https://github.com/Chia-Network/aiter"
+
+[[repo]]
+url = "https://github.com/Chia-Network/ansible-roles"
+
+[[repo]]
+url = "https://github.com/Chia-Network/argon2-cffi"
+
+[[repo]]
+url = "https://github.com/Chia-Network/bladebit"
+
+[[repo]]
+url = "https://github.com/Chia-Network/bls-signatures"
+
+[[repo]]
+url = "https://github.com/Chia-Network/build-images"
+
+[[repo]]
+url = "https://github.com/Chia-Network/cbor2"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-blockchain"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-blockchain-gui"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-dev-tools"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-docker"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-network.github.io"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-plotter-madmax"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chiabip158"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chialisp-web"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chiapos"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chiavdf"
+
+[[repo]]
+url = "https://github.com/Chia-Network/cibuildwheel"
+
+[[repo]]
+url = "https://github.com/Chia-Network/click"
+
+[[repo]]
+url = "https://github.com/Chia-Network/clvm"
+
+[[repo]]
+url = "https://github.com/Chia-Network/clvm_rs"
+
+[[repo]]
+url = "https://github.com/Chia-Network/clvm_tools"
+
+[[repo]]
+url = "https://github.com/Chia-Network/clvm_tools_rs"
+
+[[repo]]
+url = "https://github.com/Chia-Network/delocate"
+
+[[repo]]
+url = "https://github.com/Chia-Network/keybase-live-feed"
+
+[[repo]]
+url = "https://github.com/Chia-Network/keyring"
+
+[[repo]]
+url = "https://github.com/Chia-Network/ledger_sim"
+
+[[repo]]
+url = "https://github.com/Chia-Network/manaul-plotting-workspace"
+
+[[repo]]
+url = "https://github.com/Chia-Network/maturin"
+
+[[repo]]
+url = "https://github.com/Chia-Network/miniupnp"
+
+[[repo]]
+url = "https://github.com/Chia-Network/mozilla-ca"
+
+[[repo]]
+url = "https://github.com/Chia-Network/mpir"
+
+[[repo]]
+url = "https://github.com/Chia-Network/mpir_gc_x64"
+
+[[repo]]
+url = "https://github.com/Chia-Network/notarize-cli"
+
+[[repo]]
+url = "https://github.com/Chia-Network/offline-signing-demo"
+
+[[repo]]
+url = "https://github.com/Chia-Network/oldvdf-competition"
+
+[[repo]]
+url = "https://github.com/Chia-Network/pool-reference"
+
+[[repo]]
+url = "https://github.com/Chia-Network/post-mortem"
+
+[[repo]]
+url = "https://github.com/Chia-Network/proofofspace"
+
+[[repo]]
+url = "https://github.com/Chia-Network/proofofspaceresults"
+
+[[repo]]
+url = "https://github.com/Chia-Network/public_bluebox_image"
+
+[[repo]]
+url = "https://github.com/Chia-Network/py-setproctitle"
+
+[[repo]]
+url = "https://github.com/Chia-Network/release-test"
+
+[[repo]]
+url = "https://github.com/Chia-Network/relic"
+
+[[repo]]
+url = "https://github.com/Chia-Network/relic_gmp_64"
+
+[[repo]]
+url = "https://github.com/Chia-Network/relic_ietf_64"
+
+[[repo]]
+url = "https://github.com/Chia-Network/relic_x64"
+
+[[repo]]
+url = "https://github.com/Chia-Network/runner"
+
+[[repo]]
+url = "https://github.com/Chia-Network/setuptools_scm"
+
+[[repo]]
+url = "https://github.com/Chia-Network/stale"
+
+[[repo]]
+url = "https://github.com/Chia-Network/terraform-modules"
+
+[[repo]]
+url = "https://github.com/Chia-Network/test-cache"
+
+[[repo]]
+url = "https://github.com/Chia-Network/vdf-competition"
+
+[[repo]]
+url = "https://github.com/Chia-Network/vdfcontest2results"
+
+[[repo]]
+url = "https://github.com/Chia-Network/vdftrack1results"
+
+[[repo]]
+url = "https://github.com/Chia-Network/vdftrack2results"
+
+[[repo]]
+url = "https://github.com/Chia-Network/wallets"
+
+[[repo]]
+url = "https://github.com/Chia-Network/website"

@@ -1,0 +1,214 @@
+# Ecosystem Level Information
+title = "MediBloc"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/medibloc"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/medibloc/amino-js"
+
+[[repo]]
+url = "https://github.com/medibloc/apollo-link"
+
+[[repo]]
+url = "https://github.com/medibloc/aries-framework-go"
+
+[[repo]]
+url = "https://github.com/medibloc/aries-framework-go-ext"
+
+[[repo]]
+url = "https://github.com/medibloc/bls12-381"
+
+[[repo]]
+url = "https://github.com/medibloc/cameleon"
+
+[[repo]]
+url = "https://github.com/medibloc/cosmjs"
+
+[[repo]]
+url = "https://github.com/medibloc/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/medibloc/cosmostation_token_resource"
+
+[[repo]]
+url = "https://github.com/medibloc/crowdsale"
+
+[[repo]]
+url = "https://github.com/medibloc/did-spec-registries"
+
+[[repo]]
+url = "https://github.com/medibloc/did-vc-sample"
+
+[[repo]]
+url = "https://github.com/medibloc/dolphin"
+
+[[repo]]
+url = "https://github.com/medibloc/erc20"
+
+[[repo]]
+url = "https://github.com/medibloc/explorer"
+
+[[repo]]
+url = "https://github.com/medibloc/fhir-js"
+
+[[repo]]
+url = "https://github.com/medibloc/go-medibloc"
+
+[[repo]]
+url = "https://github.com/medibloc/hapi-fhir-jpaserver-starter"
+
+[[repo]]
+url = "https://github.com/medibloc/honeybee"
+
+[[repo]]
+url = "https://github.com/medibloc/jjwt"
+
+[[repo]]
+url = "https://github.com/medibloc/json-ld"
+
+[[repo]]
+url = "https://github.com/medibloc/keyserver"
+
+[[repo]]
+url = "https://github.com/medibloc/ledger-panacea"
+
+[[repo]]
+url = "https://github.com/medibloc/ledger-panacea-js"
+
+[[repo]]
+url = "https://github.com/medibloc/medibloc-panacea-api"
+
+[[repo]]
+url = "https://github.com/medibloc/medjs"
+
+[[repo]]
+url = "https://github.com/medibloc/merklizer"
+
+[[repo]]
+url = "https://github.com/medibloc/merklizer-old"
+
+[[repo]]
+url = "https://github.com/medibloc/mobile-id"
+
+[[repo]]
+url = "https://github.com/medibloc/myData"
+
+[[repo]]
+url = "https://github.com/medibloc/nestjs-oso"
+
+[[repo]]
+url = "https://github.com/medibloc/nestjs-request-context"
+
+[[repo]]
+url = "https://github.com/medibloc/node"
+
+[[repo]]
+url = "https://github.com/medibloc/p2p-mediator"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-core"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-governance"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-incentivized-testnet"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-java"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-java-old"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-js"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-js-old"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-launch"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-mainnet"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-networks"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-opentestnet"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-roadmap"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-sdk"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-smart-contract"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-swift"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-testnet"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-utility"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-web-wallet"
+
+[[repo]]
+url = "https://github.com/medibloc/phr-java"
+
+[[repo]]
+url = "https://github.com/medibloc/phr-js"
+
+[[repo]]
+url = "https://github.com/medibloc/samples"
+
+[[repo]]
+url = "https://github.com/medibloc/slips"
+
+[[repo]]
+url = "https://github.com/medibloc/strict-null-check-migration-tools"
+
+[[repo]]
+url = "https://github.com/medibloc/subscriptions-transport-ws"
+
+[[repo]]
+url = "https://github.com/medibloc/tokens-info"
+
+[[repo]]
+url = "https://github.com/medibloc/trustwallet-wallet-core"
+
+[[repo]]
+url = "https://github.com/medibloc/uni-resolver-driver-did-panacea"
+
+[[repo]]
+url = "https://github.com/medibloc/vc-java"
+
+[[repo]]
+url = "https://github.com/medibloc/vc-sdk"
+
+[[repo]]
+url = "https://github.com/medibloc/vc-service"
+
+[[repo]]
+url = "https://github.com/medibloc/verifiable"
+
+[[repo]]
+url = "https://github.com/medibloc/verifiable-credentials"
+
+[[repo]]
+url = "https://github.com/medibloc/wallet"
+
+[[repo]]
+url = "https://github.com/medibloc/whale"
+
+[[repo]]
+url = "https://github.com/medibloc/whitepaper"

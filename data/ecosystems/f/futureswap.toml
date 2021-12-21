@@ -1,0 +1,46 @@
+# Ecosystem Level Information
+title = "Futureswap"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/futureswap"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/futureswap/DeFi-Pulse-Adapters"
+
+[[repo]]
+url = "https://github.com/futureswap/DSR_bot"
+
+[[repo]]
+url = "https://github.com/futureswap/etheno"
+
+[[repo]]
+url = "https://github.com/futureswap/fs-cli-v4"
+
+[[repo]]
+url = "https://github.com/futureswap/fs-graph-v2"
+
+[[repo]]
+url = "https://github.com/futureswap/fs-graph-v2-beta"
+
+[[repo]]
+url = "https://github.com/futureswap/fs_graph"
+
+[[repo]]
+url = "https://github.com/futureswap/internal_exchange_bot"
+
+[[repo]]
+url = "https://github.com/futureswap/liquidation_bot"
+
+[[repo]]
+url = "https://github.com/futureswap/Protocol"
+
+[[repo]]
+url = "https://github.com/futureswap/signing-lib"
+
+[[repo]]
+url = "https://github.com/futureswap/slither"
+
+[[repo]]
+url = "https://github.com/futureswap/trade-cli"

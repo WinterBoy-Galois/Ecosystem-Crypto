@@ -1,0 +1,178 @@
+# Ecosystem Level Information
+title = "Arbitrum"
+
+sub_ecosystems = ["Smol Puddle", "Swapr", "WePiggy"]
+
+github_organizations = ["https://github.com/OffchainLabs"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/OffchainLabs/aragonOS"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-avm"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-avm-cpp"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/Arb-Burner-Wallet"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-compiler-evm-archive"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-ethbridge"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-ethers-provider"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-ethers-web3-bridge"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-os"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-peripheral-template"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-provider-ethers-deprecated-"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-sdk"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-token-bridge"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-truffle-provider"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-util"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-validator"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb-web3-provider"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arb_reddit_community_points"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arbc-solidity"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/Arbiswap_V2_mono"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arbitrum"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arbitrum-deployment-website"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arbitrum-interop-quickstart"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arbitrum-subgraphs"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arbitrum-tutorials"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/arbtoken_twitter_faucet"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/augur"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/balancer-core"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/balancer-frontend"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/balancer-pool-management"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/balancer-subgraph"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/configurable-rights-pool"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/demo-dapp-election"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/demo-dapp-pet-shop"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/ethers-bls-signer"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/external-initiator"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/fakerdao"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/gnosis-safe-contracts"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/go-solidity-sha3"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/goarbitrum"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/mini"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/multicall"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/openzeppelin-contracts"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/paired-erc20"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/token-bridge-sdk"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/token-bridge-sdk-old"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/token-bridge-subgraph"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/token-mock"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/tornado-core"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/uniswap-frontend"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/uniswap-interface"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/uniswap-sdk"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/uniswap-solidity"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/uniswap-v2-core"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/uniswap-v2-periphery"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/vector-modal"
+
+[[repo]]
+url = "https://github.com/OffchainLabs/wyvern-ethereum"

@@ -1,0 +1,736 @@
+# Ecosystem Level Information
+title = "Cosmos"
+
+sub_ecosystems = [
+  "Agoric",
+  "Akash Network",
+  "Althea",
+  "Band Protocol",
+  "commercio.network",
+  "CosmWasm",
+  "Crypto.com Chain",
+  "Cyber",
+  "Desmos",
+  "Dfinance",
+  "E-Money",
+  "Enigma",
+  "Fetch",
+  "FOAM",
+  "HBTC Chain",
+  "Injective Protocol",
+  "Interchain",
+  "IRIS Network",
+  "IRITA Consortium Blockchain",
+  "ixo",
+  "Kava Labs",
+  "Kira",
+  "Kuchain Network",
+  "Lazy Ledger",
+  "Loom Network",
+  "microtick",
+  "Nomic",
+  "Nym",
+  "OKEX Chain",
+  "Persistence",
+  "Regen Network",
+  "Sentinel",
+  "Sifchain",
+  "Starname",
+  "Tendermint",
+  "Terra",
+  "THORChain",
+  "xfund",
+]
+
+github_organizations = [
+  "https://github.com/cosmos",
+  "https://github.com/CosmWasm",
+  "https://github.com/luniehq",
+]
+
+# Repositories
+[[repo]]
+url = "https://github.com/alexanderbez/juno"
+
+[[repo]]
+url = "https://github.com/aura-systems/Aura-Operating-System"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain.js"
+
+[[repo]]
+url = "https://github.com/cbarraford/cosmos-multisig"
+
+[[repo]]
+url = "https://github.com/certusone/chain_exporter"
+
+[[repo]]
+url = "https://github.com/certusone/testnet_deploy"
+
+[[repo]]
+url = "https://github.com/ChainAgnostic/CAIPs"
+
+[[repo]]
+url = "https://github.com/chainapsis/keplr-extension"
+
+[[repo]]
+url = "https://github.com/ChainSafe/ChainBridge"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/cheqd/cheqd-sdk"
+
+[[repo]]
+url = "https://github.com/chuanwu/cosmos-crypto-lib"
+
+[[repo]]
+url = "https://github.com/commercionetwork/sacco.go"
+
+[[repo]]
+url = "https://github.com/CosmicBridge/server"
+
+[[repo]]
+url = "https://github.com/cosmos/admin-module"
+
+[[repo]]
+url = "https://github.com/cosmos/advocates"
+
+[[repo]]
+url = "https://github.com/cosmos/amino-js"
+
+[[repo]]
+url = "https://github.com/cosmos/atlas"
+
+[[repo]]
+url = "https://github.com/cosmos/autoalias"
+
+[[repo]]
+url = "https://github.com/cosmos/awesome"
+
+[[repo]]
+url = "https://github.com/cosmos/b9-checkers-academy-draft"
+
+[[repo]]
+url = "https://github.com/cosmos/belt"
+
+[[repo]]
+url = "https://github.com/cosmos/beta.cosmos.network"
+
+[[repo]]
+url = "https://github.com/cosmos/btcutil"
+
+[[repo]]
+url = "https://github.com/cosmos/burner-chains"
+
+[[repo]]
+url = "https://github.com/cosmos/cips"
+
+[[repo]]
+url = "https://github.com/cosmos/clearchain"
+
+[[repo]]
+url = "https://github.com/cosmos/cobra"
+
+[[repo]]
+url = "https://github.com/cosmos/conversations-site"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmjs"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos-academy"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos-proto"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos-registrar"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos-rust"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos-sdk-js"
+
+[[repo]]
+url = "https://github.com/cosmos/cosmos.network"
+
+[[repo]]
+url = "https://github.com/cosmos/docs"
+
+[[repo]]
+url = "https://github.com/cosmos/ethermint"
+
+[[repo]]
+url = "https://github.com/cosmos/ethermint-archive"
+
+[[repo]]
+url = "https://github.com/cosmos/ethermint_abci"
+
+[[repo]]
+url = "https://github.com/cosmos/ethermint_bak"
+
+[[repo]]
+url = "https://github.com/cosmos/explorer"
+
+[[repo]]
+url = "https://github.com/cosmos/faucet"
+
+[[repo]]
+url = "https://github.com/cosmos/faucet-backend"
+
+[[repo]]
+url = "https://github.com/cosmos/fundraiser"
+
+[[repo]]
+url = "https://github.com/cosmos/fundraiser-cli"
+
+[[repo]]
+url = "https://github.com/cosmos/fundraiser-lib"
+
+[[repo]]
+url = "https://github.com/cosmos/gaia"
+
+[[repo]]
+url = "https://github.com/cosmos/gaia.sigs"
+
+[[repo]]
+url = "https://github.com/cosmos/game-of-stakes"
+
+[[repo]]
+url = "https://github.com/cosmos/gex"
+
+[[repo]]
+url = "https://github.com/cosmos/gitian-builder"
+
+[[repo]]
+url = "https://github.com/cosmos/go-bip39"
+
+[[repo]]
+url = "https://github.com/cosmos/governance"
+
+[[repo]]
+url = "https://github.com/cosmos/gravity"
+
+[[repo]]
+url = "https://github.com/cosmos/gravity-bridge"
+
+[[repo]]
+url = "https://github.com/cosmos/gravity-bridge-site"
+
+[[repo]]
+url = "https://github.com/cosmos/gravity-dex-site"
+
+[[repo]]
+url = "https://github.com/cosmos/hackatom2020"
+
+[[repo]]
+url = "https://github.com/cosmos/hackatom2021"
+
+[[repo]]
+url = "https://github.com/cosmos/hellochain"
+
+[[repo]]
+url = "https://github.com/cosmos/hub.cosmos.network"
+
+[[repo]]
+url = "https://github.com/cosmos/iavl"
+
+[[repo]]
+url = "https://github.com/cosmos/ibc"
+
+[[repo]]
+url = "https://github.com/cosmos/ibc-docs"
+
+[[repo]]
+url = "https://github.com/cosmos/ibc-go"
+
+[[repo]]
+url = "https://github.com/cosmos/ibc-temp"
+
+[[repo]]
+url = "https://github.com/cosmos/ics"
+
+[[repo]]
+url = "https://github.com/cosmos/interchain-account"
+
+[[repo]]
+url = "https://github.com/cosmos/interchain-accounts"
+
+[[repo]]
+url = "https://github.com/cosmos/interchain-security"
+
+[[repo]]
+url = "https://github.com/cosmos/jobs"
+
+[[repo]]
+url = "https://github.com/cosmos/keyring"
+
+[[repo]]
+url = "https://github.com/cosmos/keystone"
+
+[[repo]]
+url = "https://github.com/cosmos/launch"
+
+[[repo]]
+url = "https://github.com/cosmos/ledger-cosmos"
+
+[[repo]]
+url = "https://github.com/cosmos/ledger-cosmos-app"
+
+[[repo]]
+url = "https://github.com/cosmos/ledger-cosmos-go"
+
+[[repo]]
+url = "https://github.com/cosmos/ledger-cosmos-js"
+
+[[repo]]
+url = "https://github.com/cosmos/ledger-cosmos-obsolete"
+
+[[repo]]
+url = "https://github.com/cosmos/ledger-go"
+
+[[repo]]
+url = "https://github.com/cosmos/ledger-tendermint-rs"
+
+[[repo]]
+url = "https://github.com/cosmos/mainnet"
+
+[[repo]]
+url = "https://github.com/cosmos/modules"
+
+[[repo]]
+url = "https://github.com/cosmos/new-cosmos.network"
+
+[[repo]]
+url = "https://github.com/cosmos/peggy"
+
+[[repo]]
+url = "https://github.com/cosmos/peggy-original"
+
+[[repo]]
+url = "https://github.com/cosmos/registry"
+
+[[repo]]
+url = "https://github.com/cosmos/relayer"
+
+[[repo]]
+url = "https://github.com/cosmos/relayer-archive"
+
+[[repo]]
+url = "https://github.com/cosmos/research"
+
+[[repo]]
+url = "https://github.com/cosmos/rust-monorepo"
+
+[[repo]]
+url = "https://github.com/cosmos/scaffold"
+
+[[repo]]
+url = "https://github.com/cosmos/sdk-application-tutorial"
+
+[[repo]]
+url = "https://github.com/cosmos/sdk-tutorials"
+
+[[repo]]
+url = "https://github.com/cosmos/sig"
+
+[[repo]]
+url = "https://github.com/cosmos/stargate"
+
+[[repo]]
+url = "https://github.com/cosmos/stargate-launch"
+
+[[repo]]
+url = "https://github.com/cosmos/telegram-moderator-bot"
+
+[[repo]]
+url = "https://github.com/cosmos/temp-archive"
+
+[[repo]]
+url = "https://github.com/cosmos/testnets"
+
+[[repo]]
+url = "https://github.com/cosmos/tools"
+
+[[repo]]
+url = "https://github.com/cosmos/types"
+
+[[repo]]
+url = "https://github.com/cosmos/v1.cosmos.network"
+
+[[repo]]
+url = "https://github.com/cosmos/vega-test"
+
+[[repo]]
+url = "https://github.com/cosmos/vuepress-theme-cosmos"
+
+[[repo]]
+url = "https://github.com/cosmostation/cosmosjs"
+
+[[repo]]
+url = "https://github.com/cosmostation/cosmostation-mobile"
+
+[[repo]]
+url = "https://github.com/CosmWasm/big-dipper"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cawesome-wasm"
+
+[[repo]]
+url = "https://github.com/CosmWasm/chat.cosmwasm.com"
+
+[[repo]]
+url = "https://github.com/CosmWasm/code-explorer"
+
+[[repo]]
+url = "https://github.com/CosmWasm/core"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmjs"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmos-discord-faucet"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmwasm"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmwasm-examples"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmwasm-plus"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmwasm-simulate"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmwasm-template"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cosmwasm-verify"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cw-cron"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cw-examples"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cw-nfts"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cw-plus"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cw-storage"
+
+[[repo]]
+url = "https://github.com/CosmWasm/cw-template"
+
+[[repo]]
+url = "https://github.com/CosmWasm/CWIPs"
+
+[[repo]]
+url = "https://github.com/CosmWasm/dApps"
+
+[[repo]]
+url = "https://github.com/CosmWasm/discord-faucet"
+
+[[repo]]
+url = "https://github.com/CosmWasm/docs"
+
+[[repo]]
+url = "https://github.com/CosmWasm/docs-old"
+
+[[repo]]
+url = "https://github.com/CosmWasm/drand-verify"
+
+[[repo]]
+url = "https://github.com/CosmWasm/fix-ci-issues"
+
+[[repo]]
+url = "https://github.com/CosmWasm/gaia"
+
+[[repo]]
+url = "https://github.com/CosmWasm/go-cosmwasm"
+
+[[repo]]
+url = "https://github.com/CosmWasm/ibc-visualizer"
+
+[[repo]]
+url = "https://github.com/CosmWasm/ics"
+
+[[repo]]
+url = "https://github.com/CosmWasm/InterWasmDAO"
+
+[[repo]]
+url = "https://github.com/CosmWasm/jsonparser"
+
+[[repo]]
+url = "https://github.com/CosmWasm/keplr-example"
+
+[[repo]]
+url = "https://github.com/CosmWasm/keplr-extension"
+
+[[repo]]
+url = "https://github.com/CosmWasm/name-app"
+
+[[repo]]
+url = "https://github.com/CosmWasm/relayer"
+
+[[repo]]
+url = "https://github.com/CosmWasm/rust-optimizer"
+
+[[repo]]
+url = "https://github.com/CosmWasm/serde-json-wasm"
+
+[[repo]]
+url = "https://github.com/CosmWasm/simple-option"
+
+[[repo]]
+url = "https://github.com/CosmWasm/starport"
+
+[[repo]]
+url = "https://github.com/CosmWasm/terra-contracts"
+
+[[repo]]
+url = "https://github.com/CosmWasm/testnets"
+
+[[repo]]
+url = "https://github.com/CosmWasm/tinyjson"
+
+[[repo]]
+url = "https://github.com/CosmWasm/ts-proto"
+
+[[repo]]
+url = "https://github.com/CosmWasm/wasmd"
+
+[[repo]]
+url = "https://github.com/CosmWasm/wasmvm"
+
+[[repo]]
+url = "https://github.com/cwgoes/haskell-abci"
+
+[[repo]]
+url = "https://github.com/cwgoes/ibc-idris-ref"
+
+[[repo]]
+url = "https://github.com/cybercongress/cyb"
+
+[[repo]]
+url = "https://github.com/cybercongress/cyb-snap"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/cybercongress/cyb-virus"
+tags = ["Dapp"]
+
+[[repo]]
+url = "https://github.com/cybercongress/cyberd"
+
+[[repo]]
+url = "https://github.com/cybercongress/go-cyber"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/cybercongress/js-amino"
+
+[[repo]]
+url = "https://github.com/cybercongress/js-cosmos"
+
+[[repo]]
+url = "https://github.com/cybercongress/launch-kit"
+tags = ["Developer Tool"]
+
+[[repo]]
+url = "https://github.com/datachainlab/cross"
+
+[[repo]]
+url = "https://github.com/dawn-network/dawn"
+
+[[repo]]
+url = "https://github.com/DecentralCardGame/Cardchain"
+
+[[repo]]
+url = "https://github.com/desmos-labs/go-key-manager"
+
+[[repo]]
+url = "https://github.com/dexc-library/dexc-web"
+
+[[repo]]
+url = "https://github.com/eco/linkedup"
+
+[[repo]]
+url = "https://github.com/eco/linkedup-app"
+
+[[repo]]
+url = "https://github.com/elvin-du/cosmos-sdk-code-analysis"
+
+[[repo]]
+url = "https://github.com/fissionlabsio/juno"
+tags = ["Developer Tool"]
+
+[[repo]]
+url = "https://github.com/forbole/big-dipper"
+tags = ["Developer Tool"]
+
+[[repo]]
+url = "https://github.com/forbole/big_dipper"
+
+[[repo]]
+url = "https://github.com/forbole/gaia_bot_monitor"
+
+[[repo]]
+url = "https://github.com/forbole/telescope"
+
+[[repo]]
+url = "https://github.com/hashcloak/katzenmint-pki"
+
+[[repo]]
+url = "https://github.com/hukkinj1/cosmospy"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/hukkinj1/cosmosvanity"
+
+[[repo]]
+url = "https://github.com/hupay/Blockchain-Tech"
+
+[[repo]]
+url = "https://github.com/informalsystems/ibc-rs"
+
+[[repo]]
+url = "https://github.com/interchainio/funding"
+
+[[repo]]
+url = "https://github.com/iqlusioninc/relayer"
+
+[[repo]]
+url = "https://github.com/iqlusioninc/sagan"
+
+[[repo]]
+url = "https://github.com/k5trismegistus/cosmos-sdk-tutorial"
+
+[[repo]]
+url = "https://github.com/kadena-io/kadenamint"
+
+[[repo]]
+url = "https://github.com/keywolf/try-cosmos-dev"
+
+[[repo]]
+url = "https://github.com/lovincyrus/cosmonauts-world"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/luniehq/cosmos-api"
+
+[[repo]]
+url = "https://github.com/luniehq/cosmos-keys"
+
+[[repo]]
+url = "https://github.com/luniehq/cosmos-ledger"
+
+[[repo]]
+url = "https://github.com/luniehq/cosmos-node-tester"
+
+[[repo]]
+url = "https://github.com/luniehq/Grant-Milestone-Delivery"
+
+[[repo]]
+url = "https://github.com/luniehq/keplr-extension"
+
+[[repo]]
+url = "https://github.com/luniehq/ledger-cosmos-js"
+
+[[repo]]
+url = "https://github.com/luniehq/livepeer-graphql-api"
+
+[[repo]]
+url = "https://github.com/luniehq/lunie"
+
+[[repo]]
+url = "https://github.com/luniehq/lunie-light"
+
+[[repo]]
+url = "https://github.com/luniehq/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/luniehq/Web3-collaboration"
+
+[[repo]]
+url = "https://github.com/microsoft/kafka-connect-cosmosdb"
+
+[[repo]]
+url = "https://github.com/nbltrust/jadepool-hub-golib-cosmos"
+
+[[repo]]
+url = "https://github.com/noah-blockchain/noah-go-node"
+
+[[repo]]
+url = "https://github.com/nomic-io/lotion"
+
+[[repo]]
+url = "https://github.com/OpenGenus/cosmos-search"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/osmosis"
+
+[[repo]]
+url = "https://github.com/qdriven/cosmos-gaia-ansible"
+
+[[repo]]
+url = "https://github.com/reforest/fungus"
+
+[[repo]]
+url = "https://github.com/relevant-community/r3l"
+
+[[repo]]
+url = "https://github.com/SaifRehman/tendermint"
+
+[[repo]]
+url = "https://github.com/SaifRehman/tendermint-chat-app"
+
+[[repo]]
+url = "https://github.com/Siaranite-Solutions/AIC-Framework"
+
+[[repo]]
+url = "https://github.com/SimplyVC/panic_cosmos"
+tags = ["Developer Tool"]
+
+[[repo]]
+url = "https://github.com/swswsw/predictionmkt"
+
+[[repo]]
+url = "https://github.com/tendermint/clearchain"
+
+[[repo]]
+url = "https://github.com/tendermint/rust-abci"
+
+[[repo]]
+url = "https://github.com/TruStory/truchain"
+
+[[repo]]
+url = "https://github.com/TTCECO/carnot"
+
+[[repo]]
+url = "https://github.com/universelabs/universe-blockchain"
+
+[[repo]]
+url = "https://github.com/xbc30/blockchain"
+
+[[repo]]
+url = "https://github.com/ZcashFoundation/zcash-pegzone"

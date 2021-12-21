@@ -1,0 +1,584 @@
+# Ecosystem Level Information
+title = "FANTOM"
+
+sub_ecosystems = [
+  "Aquarius",
+  "Cream Finance",
+  "HyperSwap",
+  "Liquid Driver",
+  "Mensa Protocol",
+  "Modefi",
+  "Paint Swap",
+  "Reaper.Farm",
+  "Robo-Vault",
+  "Scream",
+  "Shiba Fantom",
+  "SpiritSwap",
+  "Spookyswap",
+  "StakeSteak",
+  "Tarot",
+  "Tomb Finance",
+  "Waka Finance",
+  "ZooCoin",
+]
+
+github_organizations = ["https://github.com/Fantom-foundation"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Fantom-foundation/1155-dist-tracker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/1155-transfer-tracker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/721-dist-tracker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/721-fallback"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/721-transfer-tracker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-API-GraphQL"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/artion-auction-tracker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/artion-bundle-marketplace-tracker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-Client"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-Client-V2"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-Contracts"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/artion-invalid-nft-filter"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-Maintenance"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/artion-marketplace-tracker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-Server"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-Thumbnail-Api"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Artion-Thumbnail-Indexer"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/BitNFC"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/blockscout"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/bnbridge.exchange"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/bombarding-tool"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/bridge-snapshot"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/consensus-rough-notes"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/dag2ascii-tool"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/dag2dot-tool"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/data-hashing-authentication"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/dcemv"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/desktop-wallet"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/desktop-web-wallet"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/EMV-NFC-Paycard-Enrollment"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/ethql"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/evm-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/explorer"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/explorer-api"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-api-graphql"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-common-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Contract-Validation"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-CrossChain-Bridge"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-DeFi"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-dev-web"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-docker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-documentation"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Energy-ERP"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-finance"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-FLend"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-FLend-AAVE-v2"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-fluid-staking-doc"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-FMint"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-foundation-website"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-foundation.github.io"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-framework"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-FUni"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Fusd"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-govern"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Identity-Manager"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-lachesis"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-ledger"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-metamask"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-mobile-app"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Network-Monitoring"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Oracle-Backend"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Oracle-Pricefeed"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-PWA-Explorer"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-PWA-Wallet"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-research"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-rfcs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-rs-architecture"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-rust-vm"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-sfc"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Statheros"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-testnet-deployment-scripts"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-trezor"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-TrustWallet-Integration"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-ui"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Uniswap"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-vote"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-vote-react"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Voting"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-Vue-Components"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantom-web3-wallet"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom-wFTM"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom_ClientJS_Utils"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/Fantom_LedgerJS"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantomEventLoader"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantomExplorer"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fantomGraphQL"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/FantomMask-extension"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/FIPs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/flend"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fns-contracts"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fns-gui"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/FNS-SCs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fns-ui"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/FtmStableCoin"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/full-cli-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fusd-client"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/fWallet-interface"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/geth-indexer"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/gnosis_front"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/go-ethereum"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/go-evm"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/go-lachesis"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/go-opera"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/go-txflow"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/govern-launch"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/graph-node"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/identity-manager"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/jazzicon"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/jlachesis"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/jopera"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/keep3r.network"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/keythereum"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/lachesis-base"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/lachesis-dag-tool"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/lachesis-ex"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/lachesis-rewards-api"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/lachesis-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/lachesis_launch"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libcli"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libcommon-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libconsensus"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libconsensus-dag"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libconsensus-lachesis-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libconsensus-paxos-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libconsensus-raft-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libhash"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libhash-sha3"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libnode-membership"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/librevm-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libsignature"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libsignature-ed25519-dalek"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libsignature-minisign"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libtransport"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libtransport-grpc"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libtransport-http"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libtransport-proto"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libtransport-rpc"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libtransport-streaming"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libtransport-tcp"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libvm"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libvm-evm"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/libvm-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/light-cli-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/multichain"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/MultiSigWallet"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/MyCryptoCurve"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/nft-contract-detector"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/node-monitor"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/node-monitor-server"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/old-vm-transport-consensus-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/opera-docker"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/opera-experiments"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/opera-jet-api-graphql"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/opera-jet-explorer"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/opera-remix"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/opera-sfc"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/operajs-blockstream"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/oracle-backend"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/oracle-contract"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/ov"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/pgLachesisAPI"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/price-bandintegration"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/prost"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/raft-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/remix"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/remix-ide"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/sdk-application-tutorial"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/serde-protobuf"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/serial_hacking_fantom_rbvm"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/shared-ui-components"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/slate"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/sled"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/slips"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/solidity-rs"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/ThresholdECDSA"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/tokensale"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/tokio"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/tower-grpc"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/TrustWallet-tokens"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/tun-replay"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/web-wallet"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/web3-wallet"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/web3_ftm_examples"
+
+[[repo]]
+url = "https://github.com/Fantom-foundation/website"

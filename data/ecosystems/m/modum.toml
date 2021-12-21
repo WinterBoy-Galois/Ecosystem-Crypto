@@ -1,0 +1,58 @@
+# Ecosystem Level Information
+title = "Modum"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/modum-io"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/modum-io/aws-ecs-deploy-service-by-template"
+
+[[repo]]
+url = "https://github.com/modum-io/bleno"
+
+[[repo]]
+url = "https://github.com/modum-io/extract-release-notes"
+
+[[repo]]
+url = "https://github.com/modum-io/ios_client"
+
+[[repo]]
+url = "https://github.com/modum-io/modblue"
+
+[[repo]]
+url = "https://github.com/modum-io/noble"
+
+[[repo]]
+url = "https://github.com/modum-io/noble2"
+
+[[repo]]
+url = "https://github.com/modum-io/node-bluetooth-hci-socket"
+
+[[repo]]
+url = "https://github.com/modum-io/node-usb"
+
+[[repo]]
+url = "https://github.com/modum-io/smartcontract-playground"
+
+[[repo]]
+url = "https://github.com/modum-io/tokenapp-backend"
+
+[[repo]]
+url = "https://github.com/modum-io/tokenapp-frontend"
+
+[[repo]]
+url = "https://github.com/modum-io/tokenapp-keys"
+
+[[repo]]
+url = "https://github.com/modum-io/tokenapp-keys-iota"
+
+[[repo]]
+url = "https://github.com/modum-io/tokenapp-monitor"
+
+[[repo]]
+url = "https://github.com/modum-io/tokenapp-smartcontract"
+
+[[repo]]
+url = "https://github.com/modum-io/web"

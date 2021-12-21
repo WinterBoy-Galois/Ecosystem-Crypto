@@ -1,0 +1,28 @@
+# Ecosystem Level Information
+title = "OpenLibra"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/open-libra"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/open-libra/cargo-move"
+
+[[repo]]
+url = "https://github.com/open-libra/cli"
+
+[[repo]]
+url = "https://github.com/open-libra/devnet"
+
+[[repo]]
+url = "https://github.com/open-libra/governance"
+
+[[repo]]
+url = "https://github.com/open-libra/libra"
+
+[[repo]]
+url = "https://github.com/open-libra/movemint"
+
+[[repo]]
+url = "https://github.com/open-libra/synthetic-minds-move-stdlib"

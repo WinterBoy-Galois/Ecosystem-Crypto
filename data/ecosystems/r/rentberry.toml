@@ -1,0 +1,37 @@
+# Ecosystem Level Information
+title = "Rentberry"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Rentberry"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Rentberry/BerryToken"
+
+[[repo]]
+url = "https://github.com/Rentberry/coinmarketcap-api-php"
+
+[[repo]]
+url = "https://github.com/Rentberry/esproxy"
+
+[[repo]]
+url = "https://github.com/Rentberry/geocoder"
+
+[[repo]]
+url = "https://github.com/Rentberry/IcoPromo"
+
+[[repo]]
+url = "https://github.com/Rentberry/lambda-images-resizer"
+
+[[repo]]
+url = "https://github.com/Rentberry/mandrill-prometheus-exporter"
+
+[[repo]]
+url = "https://github.com/Rentberry/MapsUtils"
+
+[[repo]]
+url = "https://github.com/Rentberry/ngx-gallery"
+
+[[repo]]
+url = "https://github.com/Rentberry/twilio-prometheus-exporter"

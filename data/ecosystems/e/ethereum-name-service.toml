@@ -1,0 +1,226 @@
+# Ecosystem Level Information
+title = "Ethereum Name Service"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/ensdomains"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/ensdomains/address-encoder"
+
+[[repo]]
+url = "https://github.com/ensdomains/auction"
+
+[[repo]]
+url = "https://github.com/ensdomains/blacklist"
+
+[[repo]]
+url = "https://github.com/ensdomains/buffer"
+
+[[repo]]
+url = "https://github.com/ensdomains/content-hash"
+
+[[repo]]
+url = "https://github.com/ensdomains/contracts"
+
+[[repo]]
+url = "https://github.com/ensdomains/court"
+
+[[repo]]
+url = "https://github.com/ensdomains/crypto-addr-serialize"
+
+[[repo]]
+url = "https://github.com/ensdomains/CurveArithmetics"
+
+[[repo]]
+url = "https://github.com/ensdomains/dnsprovejs"
+
+[[repo]]
+url = "https://github.com/ensdomains/dnsregistrar"
+
+[[repo]]
+url = "https://github.com/ensdomains/dnssec-oracle"
+
+[[repo]]
+url = "https://github.com/ensdomains/dnssec-oracle-anchors"
+
+[[repo]]
+url = "https://github.com/ensdomains/dnssecoraclejs"
+
+[[repo]]
+url = "https://github.com/ensdomains/dnssectool"
+
+[[repo]]
+url = "https://github.com/ensdomains/docs"
+
+[[repo]]
+url = "https://github.com/ensdomains/durin"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-app"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-archived-contracts"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-contenthash"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-contracts"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-manager"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-metadata-service"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-nft-fuse-wrapper"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-reclaim-deposit-subgraph"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-subgraph"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-twitter-api"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-validation"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens.domains"
+
+[[repo]]
+url = "https://github.com/ensdomains/enscluster"
+
+[[repo]]
+url = "https://github.com/ensdomains/ensdomains-v2"
+
+[[repo]]
+url = "https://github.com/ensdomains/ensjs"
+
+[[repo]]
+url = "https://github.com/ensdomains/ensjs-v2"
+
+[[repo]]
+url = "https://github.com/ensdomains/eth-ens-namehash"
+
+[[repo]]
+url = "https://github.com/ensdomains/ethlink-request"
+
+[[repo]]
+url = "https://github.com/ensdomains/ethregistrar"
+
+[[repo]]
+url = "https://github.com/ensdomains/ganache-core"
+
+[[repo]]
+url = "https://github.com/ensdomains/get-trust-anchor"
+
+[[repo]]
+url = "https://github.com/ensdomains/graph-node"
+
+[[repo]]
+url = "https://github.com/ensdomains/hack.ens.domains"
+
+[[repo]]
+url = "https://github.com/ensdomains/hack2018"
+
+[[repo]]
+url = "https://github.com/ensdomains/hackathon-registrar"
+
+[[repo]]
+url = "https://github.com/ensdomains/hackathon-registrar-app"
+
+[[repo]]
+url = "https://github.com/ensdomains/k-ens"
+
+[[repo]]
+url = "https://github.com/ensdomains/l2gateway-demo"
+
+[[repo]]
+url = "https://github.com/ensdomains/learn-docs"
+
+[[repo]]
+url = "https://github.com/ensdomains/melon-mail"
+
+[[repo]]
+url = "https://github.com/ensdomains/migration-scripts"
+
+[[repo]]
+url = "https://github.com/ensdomains/mock"
+
+[[repo]]
+url = "https://github.com/ensdomains/my-ens-app"
+
+[[repo]]
+url = "https://github.com/ensdomains/name-reservations"
+
+[[repo]]
+url = "https://github.com/ensdomains/name-wrapper"
+
+[[repo]]
+url = "https://github.com/ensdomains/optimistic-dnssec"
+
+[[repo]]
+url = "https://github.com/ensdomains/punycode"
+
+[[repo]]
+url = "https://github.com/ensdomains/react-ens-address"
+
+[[repo]]
+url = "https://github.com/ensdomains/reclaim"
+
+[[repo]]
+url = "https://github.com/ensdomains/renewal"
+
+[[repo]]
+url = "https://github.com/ensdomains/renewal-widget"
+
+[[repo]]
+url = "https://github.com/ensdomains/research"
+
+[[repo]]
+url = "https://github.com/ensdomains/resolvers"
+
+[[repo]]
+url = "https://github.com/ensdomains/reverse-records"
+
+[[repo]]
+url = "https://github.com/ensdomains/root"
+
+[[repo]]
+url = "https://github.com/ensdomains/short-name-claims-app"
+
+[[repo]]
+url = "https://github.com/ensdomains/short-name-claims-subgraph"
+
+[[repo]]
+url = "https://github.com/ensdomains/solsha1"
+
+[[repo]]
+url = "https://github.com/ensdomains/subdomain-registrar"
+
+[[repo]]
+url = "https://github.com/ensdomains/subdomain-registrar-nft"
+
+[[repo]]
+url = "https://github.com/ensdomains/test-utils"
+
+[[repo]]
+url = "https://github.com/ensdomains/tldclaims"
+
+[[repo]]
+url = "https://github.com/ensdomains/ui"
+
+[[repo]]
+url = "https://github.com/ensdomains/usd-oracle"
+
+[[repo]]
+url = "https://github.com/ensdomains/web3modal"

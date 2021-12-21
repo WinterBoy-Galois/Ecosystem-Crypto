@@ -1,0 +1,319 @@
+# Ecosystem Level Information
+title = "Connext Network"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/connext", "https://github.com/ConnextProject"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/connext/arb-token-bridge"
+
+[[repo]]
+url = "https://github.com/connext/brand"
+
+[[repo]]
+url = "https://github.com/connext/browser-sdk"
+
+[[repo]]
+url = "https://github.com/connext/chain-rebalancer"
+
+[[repo]]
+url = "https://github.com/connext/chain-rebalancer-fastify"
+
+[[repo]]
+url = "https://github.com/connext/chaindata"
+
+[[repo]]
+url = "https://github.com/connext/documentation"
+
+[[repo]]
+url = "https://github.com/connext/indra"
+
+[[repo]]
+url = "https://github.com/connext/IRCs"
+
+[[repo]]
+url = "https://github.com/connext/landing-page"
+
+[[repo]]
+url = "https://github.com/connext/merkle-wasm"
+
+[[repo]]
+url = "https://github.com/connext/metamask-mobile"
+
+[[repo]]
+url = "https://github.com/connext/nats-auth"
+
+[[repo]]
+url = "https://github.com/connext/nxtp"
+
+[[repo]]
+url = "https://github.com/connext/nxtp-explorer"
+
+[[repo]]
+url = "https://github.com/connext/nxtp-router-contracts"
+
+[[repo]]
+url = "https://github.com/connext/nxtp-router-docker-compose"
+
+[[repo]]
+url = "https://github.com/connext/ovm-contracts"
+
+[[repo]]
+url = "https://github.com/connext/pillarwallet"
+
+[[repo]]
+url = "https://github.com/connext/pisa"
+
+[[repo]]
+url = "https://github.com/connext/pure-evm"
+
+[[repo]]
+url = "https://github.com/connext/react-native-client"
+
+[[repo]]
+url = "https://github.com/connext/rest-api-client"
+
+[[repo]]
+url = "https://github.com/connext/router-withdrawal-recovery"
+
+[[repo]]
+url = "https://github.com/connext/sc-indra"
+
+[[repo]]
+url = "https://github.com/connext/simnet-test"
+
+[[repo]]
+url = "https://github.com/connext/simple-docker"
+
+[[repo]]
+url = "https://github.com/connext/site"
+
+[[repo]]
+url = "https://github.com/connext/spacefold"
+
+[[repo]]
+url = "https://github.com/connext/statechannels"
+
+[[repo]]
+url = "https://github.com/connext/token-transfer"
+
+[[repo]]
+url = "https://github.com/connext/torus-embed"
+
+[[repo]]
+url = "https://github.com/connext/torus-website"
+
+[[repo]]
+url = "https://github.com/connext/transfers"
+
+[[repo]]
+url = "https://github.com/connext/vector"
+
+[[repo]]
+url = "https://github.com/connext/vector-demo"
+
+[[repo]]
+url = "https://github.com/connext/vector-merkle-tree"
+
+[[repo]]
+url = "https://github.com/connext/vector-modal"
+
+[[repo]]
+url = "https://github.com/connext/vector-modal-demo"
+
+[[repo]]
+url = "https://github.com/connext/vector-multi-router-docker-compose"
+
+[[repo]]
+url = "https://github.com/connext/vector-router-docker-compose"
+
+[[repo]]
+url = "https://github.com/connext/vector-subgraph"
+
+[[repo]]
+url = "https://github.com/connext/vector-widget-example"
+
+[[repo]]
+url = "https://github.com/connext/vector-withdraw-helpers"
+
+[[repo]]
+url = "https://github.com/connext/Waffle"
+
+[[repo]]
+url = "https://github.com/connext/whiteblock-testing"
+
+[[repo]]
+url = "https://github.com/connext/xud"
+
+[[repo]]
+url = "https://github.com/ConnextProject/admin-management-pipeline"
+
+[[repo]]
+url = "https://github.com/ConnextProject/burner-wallet"
+
+[[repo]]
+url = "https://github.com/ConnextProject/buy-rfr"
+
+[[repo]]
+url = "https://github.com/ConnextProject/card"
+
+[[repo]]
+url = "https://github.com/ConnextProject/cf-client-experimental"
+
+[[repo]]
+url = "https://github.com/ConnextProject/cf-hub-experimental"
+
+[[repo]]
+url = "https://github.com/ConnextProject/client-management-pipeline"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-chainsaw"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-client"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-dashboard"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-hub"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-kernle"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-ml"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-ns"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-rn"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-watcher"
+
+[[repo]]
+url = "https://github.com/ConnextProject/connext-watcher-fork"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ConnextReactNative"
+
+[[repo]]
+url = "https://github.com/ConnextProject/contracts"
+
+[[repo]]
+url = "https://github.com/ConnextProject/docs"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ethcalate-bidirectional-erc20"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ethcalate-bidirectional-erc20-single"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ethcalate-bidirectional-eth"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ethcalate-hub"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ethcalate-moneyshot"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ethcalate-testing"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ethhub"
+
+[[repo]]
+url = "https://github.com/ConnextProject/eventwatcher-sls-component"
+
+[[repo]]
+url = "https://github.com/ConnextProject/hacker-kit"
+
+[[repo]]
+url = "https://github.com/ConnextProject/indra"
+
+[[repo]]
+url = "https://github.com/ConnextProject/indra-legacy"
+
+[[repo]]
+url = "https://github.com/ConnextProject/indra-v2"
+
+[[repo]]
+url = "https://github.com/ConnextProject/landing-page"
+
+[[repo]]
+url = "https://github.com/ConnextProject/metamask-mobile"
+
+[[repo]]
+url = "https://github.com/ConnextProject/monorepo"
+
+[[repo]]
+url = "https://github.com/ConnextProject/namespace"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ofac"
+
+[[repo]]
+url = "https://github.com/ConnextProject/payment-starter-kit"
+
+[[repo]]
+url = "https://github.com/ConnextProject/pornstopper4000"
+
+[[repo]]
+url = "https://github.com/ConnextProject/project-management-pipeline"
+
+[[repo]]
+url = "https://github.com/ConnextProject/react-native-client"
+
+[[repo]]
+url = "https://github.com/ConnextProject/rest-api-client"
+
+[[repo]]
+url = "https://github.com/ConnextProject/rfc"
+
+[[repo]]
+url = "https://github.com/ConnextProject/simple-docker"
+
+[[repo]]
+url = "https://github.com/ConnextProject/slate"
+
+[[repo]]
+url = "https://github.com/ConnextProject/torus-embed"
+
+[[repo]]
+url = "https://github.com/ConnextProject/torus-website"
+
+[[repo]]
+url = "https://github.com/ConnextProject/ts-natsutil-test"
+
+[[repo]]
+url = "https://github.com/ConnextProject/VC-monorepo-old"
+
+[[repo]]
+url = "https://github.com/ConnextProject/virtual-channel-ingrid"
+
+[[repo]]
+url = "https://github.com/ConnextProject/virtual-channel-ledger-manager"
+
+[[repo]]
+url = "https://github.com/ConnextProject/virtual-channel-support"
+
+[[repo]]
+url = "https://github.com/ConnextProject/virtual-channels"
+
+[[repo]]
+url = "https://github.com/ConnextProject/wallet-sdk"
+
+[[repo]]
+url = "https://github.com/ConnextProject/walletconnect-test-wallet"
+
+[[repo]]
+url = "https://github.com/ConnextProject/we-got-spanked"
+
+[[repo]]
+url = "https://github.com/ConnextProject/xud"

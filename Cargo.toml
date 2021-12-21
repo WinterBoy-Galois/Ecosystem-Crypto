@@ -1,0 +1,13 @@
+[package]
+name = "crypto-ecosystems"
+version = "0.1.0"
+authors = ["Curtis Spencer"]
+edition = "2018"
+
+[dependencies]
+toml = "0.5.3"
+glob = "0.3.0"
+failure = "0.1.5"
+serde = { version = "1.0.99", features = ["derive"] }
+serde_json = "1.0"
+structopt = "0.3.20"

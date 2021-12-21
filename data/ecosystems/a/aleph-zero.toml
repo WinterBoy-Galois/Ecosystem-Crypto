@@ -1,0 +1,31 @@
+# Ecosystem Level Information
+title = "Aleph Zero"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/aleph-zero-foundation"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/aleph-zero-foundation/AlephBFT"
+
+[[repo]]
+url = "https://github.com/aleph-zero-foundation/consensus-go"
+
+[[repo]]
+url = "https://github.com/aleph-zero-foundation/core-go"
+
+[[repo]]
+url = "https://github.com/aleph-zero-foundation/Proof-of-Concept"
+
+[[repo]]
+url = "https://github.com/aleph-zero-foundation/rush"
+
+[[repo]]
+url = "https://github.com/aleph-zero-foundation/threshold-ecdsa"
+
+[[repo]]
+url = "https://github.com/alephzerofoundation/crypto"
+
+[[repo]]
+url = "https://github.com/alephzerofoundation/Proof-of-Concept"

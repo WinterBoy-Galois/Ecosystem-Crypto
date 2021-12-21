@@ -1,0 +1,121 @@
+# Ecosystem Level Information
+title = "OriginTrail"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/OriginTrail"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/OriginTrail/AAP-market-simulator"
+
+[[repo]]
+url = "https://github.com/OriginTrail/apps"
+
+[[repo]]
+url = "https://github.com/OriginTrail/auto-updater"
+
+[[repo]]
+url = "https://github.com/OriginTrail/command-executor"
+
+[[repo]]
+url = "https://github.com/OriginTrail/data-marketplace-app"
+
+[[repo]]
+url = "https://github.com/OriginTrail/depends-node-nat-pmp"
+
+[[repo]]
+url = "https://github.com/OriginTrail/diglet"
+
+[[repo]]
+url = "https://github.com/OriginTrail/dkg-client"
+
+[[repo]]
+url = "https://github.com/OriginTrail/dkg-docs"
+
+[[repo]]
+url = "https://github.com/OriginTrail/Documents"
+
+[[repo]]
+url = "https://github.com/OriginTrail/granax"
+
+[[repo]]
+url = "https://github.com/OriginTrail/houston-dashboard"
+
+[[repo]]
+url = "https://github.com/OriginTrail/houston-v4"
+
+[[repo]]
+url = "https://github.com/OriginTrail/hsv3"
+
+[[repo]]
+url = "https://github.com/OriginTrail/Improvement-Proposals"
+
+[[repo]]
+url = "https://github.com/OriginTrail/kadence"
+
+[[repo]]
+url = "https://github.com/OriginTrail/laravel-docker"
+
+[[repo]]
+url = "https://github.com/OriginTrail/laravel-imap"
+
+[[repo]]
+url = "https://github.com/OriginTrail/node-interface"
+
+[[repo]]
+url = "https://github.com/OriginTrail/node-nat-upnp"
+
+[[repo]]
+url = "https://github.com/OriginTrail/ODN-Terms-and-Conditions"
+
+[[repo]]
+url = "https://github.com/OriginTrail/open-pkg-app"
+
+[[repo]]
+url = "https://github.com/OriginTrail/open-source-freebies"
+
+[[repo]]
+url = "https://github.com/OriginTrail/OpenCall"
+
+[[repo]]
+url = "https://github.com/OriginTrail/openpkg-services"
+
+[[repo]]
+url = "https://github.com/OriginTrail/ot-node"
+
+[[repo]]
+url = "https://github.com/OriginTrail/ot-node-prototype"
+
+[[repo]]
+url = "https://github.com/OriginTrail/OT-RFC-repository"
+
+[[repo]]
+url = "https://github.com/OriginTrail/ot-whitepaper"
+
+[[repo]]
+url = "https://github.com/OriginTrail/ReadTheDocs"
+
+[[repo]]
+url = "https://github.com/OriginTrail/smart-contract-audit-documents"
+
+[[repo]]
+url = "https://github.com/OriginTrail/starfleet-boarding-contract"
+
+[[repo]]
+url = "https://github.com/OriginTrail/starfleet-bounty-contracts"
+
+[[repo]]
+url = "https://github.com/OriginTrail/starfleet-node"
+
+[[repo]]
+url = "https://github.com/OriginTrail/starfleet-parachain"
+
+[[repo]]
+url = "https://github.com/OriginTrail/substrate"
+
+[[repo]]
+url = "https://github.com/OriginTrail/token-sale-contracts"
+
+[[repo]]
+url = "https://github.com/OriginTrail/vue-pdf"

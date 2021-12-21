@@ -1,0 +1,508 @@
+# Ecosystem Level Information
+title = "MetaMask"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/MetaMask"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/MetaMask/.github"
+
+[[repo]]
+url = "https://github.com/MetaMask/action-create-release-pr"
+
+[[repo]]
+url = "https://github.com/MetaMask/action-monorepo-release-pr"
+
+[[repo]]
+url = "https://github.com/MetaMask/action-publish-gh-pages"
+
+[[repo]]
+url = "https://github.com/MetaMask/action-publish-release"
+
+[[repo]]
+url = "https://github.com/MetaMask/action-require-additional-reviewer"
+
+[[repo]]
+url = "https://github.com/MetaMask/action-utils"
+
+[[repo]]
+url = "https://github.com/MetaMask/Add-Token"
+
+[[repo]]
+url = "https://github.com/MetaMask/api-playground"
+
+[[repo]]
+url = "https://github.com/MetaMask/api-specs"
+
+[[repo]]
+url = "https://github.com/MetaMask/audit-results"
+
+[[repo]]
+url = "https://github.com/MetaMask/auto-changelog"
+
+[[repo]]
+url = "https://github.com/MetaMask/beaker"
+
+[[repo]]
+url = "https://github.com/MetaMask/bify-module-groups"
+
+[[repo]]
+url = "https://github.com/MetaMask/bitrise_verification"
+
+[[repo]]
+url = "https://github.com/MetaMask/brand-resources"
+
+[[repo]]
+url = "https://github.com/MetaMask/browser-passworder"
+
+[[repo]]
+url = "https://github.com/MetaMask/cla-signature-bot"
+
+[[repo]]
+url = "https://github.com/MetaMask/Code-of-Conduct"
+
+[[repo]]
+url = "https://github.com/MetaMask/contract-metadata"
+
+[[repo]]
+url = "https://github.com/MetaMask/controllers"
+
+[[repo]]
+url = "https://github.com/MetaMask/cryptopp"
+
+[[repo]]
+url = "https://github.com/MetaMask/dapps"
+
+[[repo]]
+url = "https://github.com/MetaMask/Design"
+
+[[repo]]
+url = "https://github.com/MetaMask/detect-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/devcon1-talk"
+
+[[repo]]
+url = "https://github.com/MetaMask/docker-prod"
+
+[[repo]]
+url = "https://github.com/MetaMask/erc20-generator"
+
+[[repo]]
+url = "https://github.com/MetaMask/eslint-config"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-block-tracker"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-brave-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-contract-metadata"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-faucet"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-gas-price-suggestor"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-gnosis-safe-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-hd-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-ipfs-browser-client"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-json-rpc-errors"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-json-rpc-filters"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-json-rpc-infura"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-json-rpc-middleware"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-ledger-bridge-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-method-registry"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-passthrough-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-phishing-detect"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-rpc-client"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-rpc-errors"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-rpc-wrapper"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-sig-util"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-simple-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/Eth-Token-Sender"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-token-tracker"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-trezor-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-tx-viz"
+
+[[repo]]
+url = "https://github.com/MetaMask/etherscan-link"
+
+[[repo]]
+url = "https://github.com/MetaMask/EthLoginController"
+
+[[repo]]
+url = "https://github.com/MetaMask/extension-port-stream"
+
+[[repo]]
+url = "https://github.com/MetaMask/extension-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/extensionizer"
+
+[[repo]]
+url = "https://github.com/MetaMask/faq"
+
+[[repo]]
+url = "https://github.com/MetaMask/feedback"
+
+[[repo]]
+url = "https://github.com/MetaMask/filsnap"
+
+[[repo]]
+url = "https://github.com/MetaMask/forwarder"
+
+[[repo]]
+url = "https://github.com/MetaMask/gaba"
+
+[[repo]]
+url = "https://github.com/MetaMask/Hackathons"
+
+[[repo]]
+url = "https://github.com/MetaMask/hd-seed-phrase-guesser"
+
+[[repo]]
+url = "https://github.com/MetaMask/iframe-ee-openrpc-inspector-transport"
+
+[[repo]]
+url = "https://github.com/MetaMask/iframe-execution-environment"
+
+[[repo]]
+url = "https://github.com/MetaMask/infura-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/inpage-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/IPFS-Ethereum-Hackathon"
+
+[[repo]]
+url = "https://github.com/MetaMask/jazzicon"
+
+[[repo]]
+url = "https://github.com/MetaMask/js-libp2p-multicast-conditional"
+
+[[repo]]
+url = "https://github.com/MetaMask/js-libp2p-rendezvous"
+
+[[repo]]
+url = "https://github.com/MetaMask/json-rpc-capabilities-middleware"
+
+[[repo]]
+url = "https://github.com/MetaMask/json-rpc-engine"
+
+[[repo]]
+url = "https://github.com/MetaMask/json-rpc-middleware-stream"
+
+[[repo]]
+url = "https://github.com/MetaMask/key-tree"
+
+[[repo]]
+url = "https://github.com/MetaMask/KeyringController"
+
+[[repo]]
+url = "https://github.com/MetaMask/lavamoat-browserify"
+
+[[repo]]
+url = "https://github.com/MetaMask/lavamoat-webpack"
+
+[[repo]]
+url = "https://github.com/MetaMask/legacy-web3"
+
+[[repo]]
+url = "https://github.com/MetaMask/legacy-web3-extension"
+
+[[repo]]
+url = "https://github.com/MetaMask/logo"
+
+[[repo]]
+url = "https://github.com/MetaMask/lottie-react-native"
+
+[[repo]]
+url = "https://github.com/MetaMask/mascara"
+
+[[repo]]
+url = "https://github.com/MetaMask/mesh-testing"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamark"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-api-specs"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-deeplinks"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-docs"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-extension"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-extension-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-filecoin-developer-beta"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-inpage-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-k8s-sys"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-logo"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-mobile"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-mobile-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-module-template"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-onboarding"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-plugin-beta"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-snaps-beta"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-storybook"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-ui"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-vision"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-yeoman-generators"
+
+[[repo]]
+url = "https://github.com/MetaMask/mm-plugin"
+
+[[repo]]
+url = "https://github.com/MetaMask/mobile-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/nonce-tracker"
+
+[[repo]]
+url = "https://github.com/MetaMask/obj-multiplex"
+
+[[repo]]
+url = "https://github.com/MetaMask/object-multiplex"
+
+[[repo]]
+url = "https://github.com/MetaMask/obs-store"
+
+[[repo]]
+url = "https://github.com/MetaMask/old-landing"
+
+[[repo]]
+url = "https://github.com/MetaMask/old-metamask-ui"
+
+[[repo]]
+url = "https://github.com/MetaMask/openrpc-inspector-transport"
+
+[[repo]]
+url = "https://github.com/MetaMask/pending-tx-tracker"
+
+[[repo]]
+url = "https://github.com/MetaMask/permissions-adventure"
+
+[[repo]]
+url = "https://github.com/MetaMask/post-message-stream"
+
+[[repo]]
+url = "https://github.com/MetaMask/providers"
+
+[[repo]]
+url = "https://github.com/MetaMask/React-MetaMask-Login-Button"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-aes"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-aes-crypto-forked"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-animated-fox"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-branch-deep-linking-attribution"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-button"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-fs"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-gesture-handler"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-keychain"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-os"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-push-notification"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-scrollable-tab-view"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-search-api"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-share"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-splash-screen"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-tcp"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-view-shot"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-native-webview"
+
+[[repo]]
+url = "https://github.com/MetaMask/rpc-cap"
+
+[[repo]]
+url = "https://github.com/MetaMask/safe-event-emitter"
+
+[[repo]]
+url = "https://github.com/MetaMask/sesify"
+
+[[repo]]
+url = "https://github.com/MetaMask/sesify-tofu"
+
+[[repo]]
+url = "https://github.com/MetaMask/slip44"
+
+[[repo]]
+url = "https://github.com/MetaMask/snap-examples"
+
+[[repo]]
+url = "https://github.com/MetaMask/snap-workers"
+
+[[repo]]
+url = "https://github.com/MetaMask/snaps-cli"
+
+[[repo]]
+url = "https://github.com/MetaMask/snaps-skunkworks"
+
+[[repo]]
+url = "https://github.com/MetaMask/state-log-explorer"
+
+[[repo]]
+url = "https://github.com/MetaMask/sw-controller"
+
+[[repo]]
+url = "https://github.com/MetaMask/talk-devcon2"
+
+[[repo]]
+url = "https://github.com/MetaMask/talk-devcon3"
+
+[[repo]]
+url = "https://github.com/MetaMask/talk-devcon4"
+
+[[repo]]
+url = "https://github.com/MetaMask/talk-hongkong-2016"
+
+[[repo]]
+url = "https://github.com/MetaMask/test-dapp"
+
+[[repo]]
+url = "https://github.com/MetaMask/TipButton"
+
+[[repo]]
+url = "https://github.com/MetaMask/transaction-controller"
+
+[[repo]]
+url = "https://github.com/MetaMask/transaction-state-manager"
+
+[[repo]]
+url = "https://github.com/MetaMask/tx-gas-utils"
+
+[[repo]]
+url = "https://github.com/MetaMask/types"
+
+[[repo]]
+url = "https://github.com/MetaMask/uglifyify"
+
+[[repo]]
+url = "https://github.com/MetaMask/vault-decryptor"
+
+[[repo]]
+url = "https://github.com/MetaMask/wallet-permissions-spec"
+
+[[repo]]
+url = "https://github.com/MetaMask/watch-token"
+
+[[repo]]
+url = "https://github.com/MetaMask/web3-provider-engine"
+
+[[repo]]
+url = "https://github.com/MetaMask/web3-stream-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/Website"
+
+[[repo]]
+url = "https://github.com/MetaMask/zero-client"

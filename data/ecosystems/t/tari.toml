@@ -1,0 +1,227 @@
+# Ecosystem Level Information
+title = "Tari"
+
+sub_ecosystems = []
+
+github_organizations = [
+  "https://github.com/big-neon",
+  "https://github.com/tari-labs",
+  "https://github.com/tari-project",
+]
+
+# Repositories
+[[repo]]
+url = "https://github.com/big-neon/bigneon"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-about"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-android-doorperson"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-api"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-api-node"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-cube"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-db"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-front-door"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-ios"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-mobile-react"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-web"
+
+[[repo]]
+url = "https://github.com/big-neon/bn-web-admin-demo"
+
+[[repo]]
+url = "https://github.com/big-neon/diesel"
+
+[[repo]]
+url = "https://github.com/big-neon/docs"
+
+[[repo]]
+url = "https://github.com/big-neon/expo-server-sdk-rust"
+
+[[repo]]
+url = "https://github.com/big-neon/filebeats"
+
+[[repo]]
+url = "https://github.com/big-neon/scratchpad"
+
+[[repo]]
+url = "https://github.com/big-neon/twilio-rs"
+
+[[repo]]
+url = "https://github.com/tari-labs/actix-broker"
+
+[[repo]]
+url = "https://github.com/tari-labs/docker"
+
+[[repo]]
+url = "https://github.com/tari-labs/in-60-seconds"
+
+[[repo]]
+url = "https://github.com/tari-labs/ios_aurora_push"
+
+[[repo]]
+url = "https://github.com/tari-labs/libsecp256k1"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/tari-labs/modelling"
+
+[[repo]]
+url = "https://github.com/tari-labs/openapi-generator"
+
+[[repo]]
+url = "https://github.com/tari-labs/pacman"
+
+[[repo]]
+url = "https://github.com/tari-labs/paperclip"
+
+[[repo]]
+url = "https://github.com/tari-labs/rust-playground"
+
+[[repo]]
+url = "https://github.com/tari-labs/tari"
+
+[[repo]]
+url = "https://github.com/tari-labs/tari-crypto-android"
+
+[[repo]]
+url = "https://github.com/tari-labs/tari-crypto-ios"
+
+[[repo]]
+url = "https://github.com/tari-labs/tari-university"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/tari-labs/wasm-pack"
+
+[[repo]]
+url = "https://github.com/tari-labs/widdershins"
+
+[[repo]]
+url = "https://github.com/tari-labs/yamux"
+
+[[repo]]
+url = "https://github.com/tari-project/action-buildlibs"
+
+[[repo]]
+url = "https://github.com/tari-project/base_node_grpc_client"
+
+[[repo]]
+url = "https://github.com/tari-project/block-explorer-frontend"
+
+[[repo]]
+url = "https://github.com/tari-project/blockchain-explorer-api"
+
+[[repo]]
+url = "https://github.com/tari-project/broadcast_channel"
+
+[[repo]]
+url = "https://github.com/tari-project/bulletproofs"
+
+[[repo]]
+url = "https://github.com/tari-project/bus-queue"
+
+[[repo]]
+url = "https://github.com/tari-project/deploy"
+
+[[repo]]
+url = "https://github.com/tari-project/desktop-client"
+
+[[repo]]
+url = "https://github.com/tari-project/node-cryptonight-hashing"
+
+[[repo]]
+url = "https://github.com/tari-project/nodejs-pool"
+
+[[repo]]
+url = "https://github.com/tari-project/poolui"
+
+[[repo]]
+url = "https://github.com/tari-project/pubsub"
+
+[[repo]]
+url = "https://github.com/tari-project/qt_wallet"
+
+[[repo]]
+url = "https://github.com/tari-project/randomx-rs"
+
+[[repo]]
+url = "https://github.com/tari-project/RFC"
+
+[[repo]]
+url = "https://github.com/tari-project/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/tari-project/rust-multiaddr"
+
+[[repo]]
+url = "https://github.com/tari-project/snow"
+
+[[repo]]
+url = "https://github.com/tari-project/tari"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/tari-project/tari-config-generator"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-crypto"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-data-analysis"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-dot-com"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-wallet-grpc-client"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-website"
+
+[[repo]]
+url = "https://github.com/tari-project/tari_node_controller"
+
+[[repo]]
+url = "https://github.com/tari-project/tari_utilities"
+
+[[repo]]
+url = "https://github.com/tari-project/tokio-socks"
+
+[[repo]]
+url = "https://github.com/tari-project/tower"
+
+[[repo]]
+url = "https://github.com/tari-project/validator-node"
+
+[[repo]]
+url = "https://github.com/tari-project/wallet-android"
+
+[[repo]]
+url = "https://github.com/tari-project/wallet-grpc-client"
+
+[[repo]]
+url = "https://github.com/tari-project/wallet-ios"
+
+[[repo]]
+url = "https://github.com/tari-project/xmrig"
+
+[[repo]]
+url = "https://github.com/tari-project/yamux"

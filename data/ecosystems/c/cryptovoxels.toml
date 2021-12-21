@@ -1,0 +1,88 @@
+# Ecosystem Level Information
+title = "Cryptovoxels"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/cryptovoxels"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/cryptovoxels/app-basics"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/app_template"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/blender-vox-importer"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/chat"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/construct"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/contracts"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/cryptovoxels.github.com"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/dat-mirror"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/discourse-iframe-header"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/godot-ecmascript"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/hybrid-benchmarks"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/image-server"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/issues"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/jankovoxels"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/maps"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/messages"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/opensea-js"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/parcel-bitcoin-tracker"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/parcel-market-subgraph"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/raytracer"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/reatlas"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/scripting"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/scripting-bundle"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/scripting-host"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/ticket-golem"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/unity-client"
+
+[[repo]]
+url = "https://github.com/cryptovoxels/wiki"

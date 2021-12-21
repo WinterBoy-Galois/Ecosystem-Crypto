@@ -1,0 +1,91 @@
+# Ecosystem Level Information
+title = "Liquality"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/liquality"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/liquality/agent"
+
+[[repo]]
+url = "https://github.com/liquality/atomicagent"
+
+[[repo]]
+url = "https://github.com/liquality/atomicagent-notifier"
+
+[[repo]]
+url = "https://github.com/liquality/bitcoin-api-site"
+
+[[repo]]
+url = "https://github.com/liquality/block-explorer-demo"
+
+[[repo]]
+url = "https://github.com/liquality/browser-extensions"
+
+[[repo]]
+url = "https://github.com/liquality/cal-generator"
+
+[[repo]]
+url = "https://github.com/liquality/chainabstractionlayer"
+
+[[repo]]
+url = "https://github.com/liquality/coinselect"
+
+[[repo]]
+url = "https://github.com/liquality/cross-chain-playground"
+
+[[repo]]
+url = "https://github.com/liquality/cryptoassets"
+
+[[repo]]
+url = "https://github.com/liquality/documentation"
+
+[[repo]]
+url = "https://github.com/liquality/electrs-batch-server"
+
+[[repo]]
+url = "https://github.com/liquality/ethereum-scraper"
+
+[[repo]]
+url = "https://github.com/liquality/hw-web-bridge"
+
+[[repo]]
+url = "https://github.com/liquality/ledger-live-desktop"
+
+[[repo]]
+url = "https://github.com/liquality/ledger-web-bridge"
+
+[[repo]]
+url = "https://github.com/liquality/ledger-webusb-bridge"
+
+[[repo]]
+url = "https://github.com/liquality/ledgerjs"
+
+[[repo]]
+url = "https://github.com/liquality/lips"
+
+[[repo]]
+url = "https://github.com/liquality/liquality"
+
+[[repo]]
+url = "https://github.com/liquality/liquality-launcher"
+
+[[repo]]
+url = "https://github.com/liquality/liquality-swap"
+
+[[repo]]
+url = "https://github.com/liquality/liquality.github.io"
+
+[[repo]]
+url = "https://github.com/liquality/swap-diag"
+
+[[repo]]
+url = "https://github.com/liquality/terraform-aws-ecs-ethereum-indexer"
+
+[[repo]]
+url = "https://github.com/liquality/value-management-system"
+
+[[repo]]
+url = "https://github.com/liquality/wallet"

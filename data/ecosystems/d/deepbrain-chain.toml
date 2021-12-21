@@ -1,0 +1,79 @@
+# Ecosystem Level Information
+title = "DeepBrain Chain"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/DeepBrainChain"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/DeepBrainChain/assets"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-AI-Distributed-Cloud-Storage"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-AIComputingNet"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-bellman"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-DOC"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-FederatedLearning-Client-VNX"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-filecoin-ffi"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-Filecoin-scheduler"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-FileCoin-Snark"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-lotus"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-Ngrok"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-rust-fil-proofs"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBC-rust-filecoin-proofs-api"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/dbc_java_service_sdk"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBCGalaxyRace"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DBChainWebsite"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/DeepBrainChain-MainChain"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/deepbrainchain-release"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/default-token-list"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/filecoin-ffi"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/substrate-api-sidecar"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/token-profile"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/tokens"
+
+[[repo]]
+url = "https://github.com/DeepBrainChain/Wallet-DBCMainChain"

@@ -1,0 +1,412 @@
+# Ecosystem Level Information
+title = "Fluence"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/fluencelabs"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/fluencelabs/air"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-book"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-chat"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-demo"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-dht"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-ipfs"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-lib"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-playground"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aqua-vscode"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aquamarine"
+
+[[repo]]
+url = "https://github.com/fluencelabs/aquavm"
+
+[[repo]]
+url = "https://github.com/fluencelabs/as-init"
+
+[[repo]]
+url = "https://github.com/fluencelabs/asmble"
+
+[[repo]]
+url = "https://github.com/fluencelabs/assemblyscript"
+
+[[repo]]
+url = "https://github.com/fluencelabs/assemblyscript-dice"
+
+[[repo]]
+url = "https://github.com/fluencelabs/assemblyscript-json"
+
+[[repo]]
+url = "https://github.com/fluencelabs/assemblyscript-sdk"
+
+[[repo]]
+url = "https://github.com/fluencelabs/assemblyscript-template"
+
+[[repo]]
+url = "https://github.com/fluencelabs/awesome-fluence"
+
+[[repo]]
+url = "https://github.com/fluencelabs/Bounties"
+
+[[repo]]
+url = "https://github.com/fluencelabs/Browser3000-Hackathon"
+
+[[repo]]
+url = "https://github.com/fluencelabs/c-backend-sdk"
+
+[[repo]]
+url = "https://github.com/fluencelabs/c-template"
+
+[[repo]]
+url = "https://github.com/fluencelabs/codec"
+
+[[repo]]
+url = "https://github.com/fluencelabs/cosmos-hackathon-backend"
+
+[[repo]]
+url = "https://github.com/fluencelabs/cosmos-hackathon-frontend"
+
+[[repo]]
+url = "https://github.com/fluencelabs/cpp-template"
+
+[[repo]]
+url = "https://github.com/fluencelabs/crate-versions-experiment"
+
+[[repo]]
+url = "https://github.com/fluencelabs/crossmodule"
+
+[[repo]]
+url = "https://github.com/fluencelabs/crypto"
+
+[[repo]]
+url = "https://github.com/fluencelabs/curl_template"
+
+[[repo]]
+url = "https://github.com/fluencelabs/dashboard"
+
+[[repo]]
+url = "https://github.com/fluencelabs/db-connector"
+
+[[repo]]
+url = "https://github.com/fluencelabs/demo-2018-dec"
+
+[[repo]]
+url = "https://github.com/fluencelabs/devcontainer"
+
+[[repo]]
+url = "https://github.com/fluencelabs/docker-rust-nightly"
+
+[[repo]]
+url = "https://github.com/fluencelabs/docker-socket-proxy"
+
+[[repo]]
+url = "https://github.com/fluencelabs/docs"
+
+[[repo]]
+url = "https://github.com/fluencelabs/dweb-transports"
+
+[[repo]]
+url = "https://github.com/fluencelabs/dwh-game"
+
+[[repo]]
+url = "https://github.com/fluencelabs/eip712-validation-node"
+
+[[repo]]
+url = "https://github.com/fluencelabs/ethberlin-solidity-dsl"
+
+[[repo]]
+url = "https://github.com/fluencelabs/ethdenver-hackathon"
+
+[[repo]]
+url = "https://github.com/fluencelabs/EthOnline-2021"
+
+[[repo]]
+url = "https://github.com/fluencelabs/example-sqldb"
+
+[[repo]]
+url = "https://github.com/fluencelabs/examples"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fce"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fl-init"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fldist"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-chat-example"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-cli"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-js"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-network-environment"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-playground"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-shared-canvas"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-streamr-integration"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluence-VRF"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluent-pad"
+
+[[repo]]
+url = "https://github.com/fluencelabs/FluentPad"
+
+[[repo]]
+url = "https://github.com/fluencelabs/fluid"
+
+[[repo]]
+url = "https://github.com/fluencelabs/frank"
+
+[[repo]]
+url = "https://github.com/fluencelabs/frontend-example"
+
+[[repo]]
+url = "https://github.com/fluencelabs/frontend-template"
+
+[[repo]]
+url = "https://github.com/fluencelabs/gitbook-docs"
+
+[[repo]]
+url = "https://github.com/fluencelabs/Gitcoin-GR11-Hackathon"
+
+[[repo]]
+url = "https://github.com/fluencelabs/go-libp2p-kad-dht"
+
+[[repo]]
+url = "https://github.com/fluencelabs/hack-the-system"
+
+[[repo]]
+url = "https://github.com/fluencelabs/hackethberlin"
+
+[[repo]]
+url = "https://github.com/fluencelabs/HackFS-2021"
+
+[[repo]]
+url = "https://github.com/fluencelabs/interface-types"
+
+[[repo]]
+url = "https://github.com/fluencelabs/ipfs-adapter"
+
+[[repo]]
+url = "https://github.com/fluencelabs/jabci"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p-crypto"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p-interfaces"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p-noise"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p-secio"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p-tcp"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p-utils"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-libp2p-websockets"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-mafmt"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-multiaddr-to-uri"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-multistream-select"
+
+[[repo]]
+url = "https://github.com/fluencelabs/js-peer-id"
+
+[[repo]]
+url = "https://github.com/fluencelabs/jsonpath"
+
+[[repo]]
+url = "https://github.com/fluencelabs/kademlia-exporter"
+
+[[repo]]
+url = "https://github.com/fluencelabs/lalrpop"
+
+[[repo]]
+url = "https://github.com/fluencelabs/lazy-snark"
+
+[[repo]]
+url = "https://github.com/fluencelabs/libp2p-ts"
+
+[[repo]]
+url = "https://github.com/fluencelabs/links"
+
+[[repo]]
+url = "https://github.com/fluencelabs/llamadb"
+
+[[repo]]
+url = "https://github.com/fluencelabs/llamadb-wasm"
+
+[[repo]]
+url = "https://github.com/fluencelabs/marine"
+
+[[repo]]
+url = "https://github.com/fluencelabs/marine-rs-sdk"
+
+[[repo]]
+url = "https://github.com/fluencelabs/marine-rs-sdk-test"
+
+[[repo]]
+url = "https://github.com/fluencelabs/multi-module-example"
+
+[[repo]]
+url = "https://github.com/fluencelabs/musl"
+
+[[repo]]
+url = "https://github.com/fluencelabs/node-distro"
+
+[[repo]]
+url = "https://github.com/fluencelabs/p2p-fileshare"
+
+[[repo]]
+url = "https://github.com/fluencelabs/parity-wasm"
+
+[[repo]]
+url = "https://github.com/fluencelabs/proto-distributor"
+
+[[repo]]
+url = "https://github.com/fluencelabs/rbac"
+
+[[repo]]
+url = "https://github.com/fluencelabs/redis"
+
+[[repo]]
+url = "https://github.com/fluencelabs/rfcs"
+
+[[repo]]
+url = "https://github.com/fluencelabs/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/fluencelabs/rust-sdk"
+
+[[repo]]
+url = "https://github.com/fluencelabs/rust-template"
+
+[[repo]]
+url = "https://github.com/fluencelabs/rust-web3"
+
+[[repo]]
+url = "https://github.com/fluencelabs/scala-multiaddr"
+
+[[repo]]
+url = "https://github.com/fluencelabs/shared-canvas-frontend"
+
+[[repo]]
+url = "https://github.com/fluencelabs/signature-connector"
+
+[[repo]]
+url = "https://github.com/fluencelabs/smartcontracts"
+
+[[repo]]
+url = "https://github.com/fluencelabs/sol-rs"
+
+[[repo]]
+url = "https://github.com/fluencelabs/Sovereign-Data-Hackathon"
+
+[[repo]]
+url = "https://github.com/fluencelabs/spec"
+
+[[repo]]
+url = "https://github.com/fluencelabs/sqlite"
+
+[[repo]]
+url = "https://github.com/fluencelabs/sqlite-wasm-connector"
+
+[[repo]]
+url = "https://github.com/fluencelabs/tendermint"
+
+[[repo]]
+url = "https://github.com/fluencelabs/tendermint-demo"
+
+[[repo]]
+url = "https://github.com/fluencelabs/tools"
+
+[[repo]]
+url = "https://github.com/fluencelabs/trust-graph"
+
+[[repo]]
+url = "https://github.com/fluencelabs/trust-graph-test"
+
+[[repo]]
+url = "https://github.com/fluencelabs/tutorials"
+
+[[repo]]
+url = "https://github.com/fluencelabs/wagon"
+
+[[repo]]
+url = "https://github.com/fluencelabs/wasm-bindgen"
+
+[[repo]]
+url = "https://github.com/fluencelabs/wasm-module-name"
+
+[[repo]]
+url = "https://github.com/fluencelabs/wasm-timer"
+
+[[repo]]
+url = "https://github.com/fluencelabs/wasm-utils"
+
+[[repo]]
+url = "https://github.com/fluencelabs/wasmer"
+
+[[repo]]
+url = "https://github.com/fluencelabs/webasm-solidity"
+
+[[repo]]
+url = "https://github.com/fluencelabs/website"
+
+[[repo]]
+url = "https://github.com/fluencelabs/workshop-2018-dec"
+
+[[repo]]
+url = "https://github.com/fluencelabs/workshop-2018-oct"

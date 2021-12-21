@@ -1,0 +1,46 @@
+# Ecosystem Level Information
+title = "Mintbase"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Mintbase"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Mintbase/.github"
+
+[[repo]]
+url = "https://github.com/Mintbase/create-mintbase-app"
+
+[[repo]]
+url = "https://github.com/Mintbase/flux-index-node"
+
+[[repo]]
+url = "https://github.com/Mintbase/graph-mint-factory"
+
+[[repo]]
+url = "https://github.com/Mintbase/graph-oldmints"
+
+[[repo]]
+url = "https://github.com/Mintbase/mintbase-bridge"
+
+[[repo]]
+url = "https://github.com/Mintbase/mintbase-embed-1"
+
+[[repo]]
+url = "https://github.com/Mintbase/mintbase-issues"
+
+[[repo]]
+url = "https://github.com/Mintbase/mintbase-js"
+
+[[repo]]
+url = "https://github.com/Mintbase/mintbase-near-indexer"
+
+[[repo]]
+url = "https://github.com/Mintbase/near-nft-standards"
+
+[[repo]]
+url = "https://github.com/Mintbase/near-wallet"
+
+[[repo]]
+url = "https://github.com/Mintbase/nep-ts"

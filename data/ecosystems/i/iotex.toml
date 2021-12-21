@@ -1,0 +1,322 @@
+# Ecosystem Level Information
+title = "IoTeX"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/iotexproject"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/iotexproject/babel-api"
+
+[[repo]]
+url = "https://github.com/iotexproject/badge-nfts"
+
+[[repo]]
+url = "https://github.com/iotexproject/chain-meta-exporter"
+
+[[repo]]
+url = "https://github.com/iotexproject/chains"
+
+[[repo]]
+url = "https://github.com/iotexproject/codelabs"
+
+[[repo]]
+url = "https://github.com/iotexproject/community"
+
+[[repo]]
+url = "https://github.com/iotexproject/cooladdress"
+
+[[repo]]
+url = "https://github.com/iotexproject/cyclone-cash"
+
+[[repo]]
+url = "https://github.com/iotexproject/demo-LED-display"
+
+[[repo]]
+url = "https://github.com/iotexproject/evm"
+
+[[repo]]
+url = "https://github.com/iotexproject/external-initiator"
+
+[[repo]]
+url = "https://github.com/iotexproject/files"
+
+[[repo]]
+url = "https://github.com/iotexproject/forum-plugin"
+
+[[repo]]
+url = "https://github.com/iotexproject/generate-pebble-data"
+
+[[repo]]
+url = "https://github.com/iotexproject/go-ethereum"
+
+[[repo]]
+url = "https://github.com/iotexproject/go-fsm"
+
+[[repo]]
+url = "https://github.com/iotexproject/go-p2p"
+
+[[repo]]
+url = "https://github.com/iotexproject/go-pkgs"
+
+[[repo]]
+url = "https://github.com/iotexproject/go2xunit"
+
+[[repo]]
+url = "https://github.com/iotexproject/gov-iotex"
+
+[[repo]]
+url = "https://github.com/iotexproject/governance-forward"
+
+[[repo]]
+url = "https://github.com/iotexproject/graph-node"
+
+[[repo]]
+url = "https://github.com/iotexproject/halogrants"
+
+[[repo]]
+url = "https://github.com/iotexproject/high-table"
+
+[[repo]]
+url = "https://github.com/iotexproject/hmq"
+
+[[repo]]
+url = "https://github.com/iotexproject/homebrew-core"
+
+[[repo]]
+url = "https://github.com/iotexproject/homebrew-ioctl"
+
+[[repo]]
+url = "https://github.com/iotexproject/homebrew-ioctl-unstable"
+
+[[repo]]
+url = "https://github.com/iotexproject/IAPs"
+
+[[repo]]
+url = "https://github.com/iotexproject/iips"
+
+[[repo]]
+url = "https://github.com/iotexproject/iopay-desktop"
+
+[[repo]]
+url = "https://github.com/iotexproject/iopay-extension"
+
+[[repo]]
+url = "https://github.com/iotexproject/iopay-extension-wallet"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-address"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-address-ts"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-analyser-api"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-analytics"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-android-sdk"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna-csharp"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna-embedded"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna-go"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna-java"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna-java-deprecated"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna-rust"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-antenna-swift"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-bootstrap"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-chainlink-adapter"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-core"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-core-rosetta-gateway"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-dapp-sample"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-dapp-sample-old"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-dapp-sample-v2"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-dapp-vercel-teamplate"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-dapp-vercel-template"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-did"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-docs"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-docs-gitbook"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-election"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-erc20"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-explorer"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-governance"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-hermes"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-pantheon"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-proto"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-react-components"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-react-native-starter"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-reactor"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-studio"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-token-metadata"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-tools"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-wallet"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-website"
+
+[[repo]]
+url = "https://github.com/iotexproject/iotex-website-v3"
+
+[[repo]]
+url = "https://github.com/iotexproject/iott-dapp-example"
+
+[[repo]]
+url = "https://github.com/iotexproject/ioTube"
+
+[[repo]]
+url = "https://github.com/iotexproject/IOTX-charity-contracts"
+
+[[repo]]
+url = "https://github.com/iotexproject/IOTX-EIP-1202-contracts"
+
+[[repo]]
+url = "https://github.com/iotexproject/IOTX-token-contracts"
+
+[[repo]]
+url = "https://github.com/iotexproject/IOTX-voting-contracts-ABI"
+
+[[repo]]
+url = "https://github.com/iotexproject/ledger-app-iotex"
+
+[[repo]]
+url = "https://github.com/iotexproject/ledger-wallet-demo"
+
+[[repo]]
+url = "https://github.com/iotexproject/metabase"
+
+[[repo]]
+url = "https://github.com/iotexproject/multicall"
+
+[[repo]]
+url = "https://github.com/iotexproject/onboard-docs-gitbook"
+
+[[repo]]
+url = "https://github.com/iotexproject/pax"
+
+[[repo]]
+url = "https://github.com/iotexproject/pebble-backend"
+
+[[repo]]
+url = "https://github.com/iotexproject/pebble-data-container"
+
+[[repo]]
+url = "https://github.com/iotexproject/pebble-data-spec"
+
+[[repo]]
+url = "https://github.com/iotexproject/pebble-firmware"
+
+[[repo]]
+url = "https://github.com/iotexproject/pebble-prophecy"
+
+[[repo]]
+url = "https://github.com/iotexproject/pebble-simulator"
+
+[[repo]]
+url = "https://github.com/iotexproject/pharos"
+
+[[repo]]
+url = "https://github.com/iotexproject/phoenix"
+
+[[repo]]
+url = "https://github.com/iotexproject/pylon"
+
+[[repo]]
+url = "https://github.com/iotexproject/remixd"
+
+[[repo]]
+url = "https://github.com/iotexproject/roll-dice-demo-dapp"
+
+[[repo]]
+url = "https://github.com/iotexproject/snapshot"
+
+[[repo]]
+url = "https://github.com/iotexproject/true-currencies"
+
+[[repo]]
+url = "https://github.com/iotexproject/ucam-firmware"
+
+[[repo]]
+url = "https://github.com/iotexproject/ucam-pe-lib"
+
+[[repo]]
+url = "https://github.com/iotexproject/uni-resolver-driver-did-io"
+
+[[repo]]
+url = "https://github.com/iotexproject/web-iotube"
+
+[[repo]]
+url = "https://github.com/iotexproject/web-native-staking-v2"
+
+[[repo]]
+url = "https://github.com/iotexproject/web-onefx-boilerplate"

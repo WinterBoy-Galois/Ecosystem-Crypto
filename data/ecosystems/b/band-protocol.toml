@@ -1,0 +1,202 @@
+# Ecosystem Level Information
+title = "Band Protocol"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/bandprotocol"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/bandprotocol/band"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-consumer"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-crypto"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-faucet"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-icon"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-icon-integration-example"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-integration-binance-smart-chain"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-integrations"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band-terra-oracle"
+
+[[repo]]
+url = "https://github.com/bandprotocol/band.js"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain-docs"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain-legacy"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain-node"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain-packet"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain.js"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandpress"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bitswing-contracts"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bootstrap"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bounties"
+
+[[repo]]
+url = "https://github.com/bandprotocol/campbase"
+
+[[repo]]
+url = "https://github.com/bandprotocol/chain"
+
+[[repo]]
+url = "https://github.com/bandprotocol/coingecko-monitoring"
+
+[[repo]]
+url = "https://github.com/bandprotocol/conditional-order-basic"
+
+[[repo]]
+url = "https://github.com/bandprotocol/contracts"
+
+[[repo]]
+url = "https://github.com/bandprotocol/cosmoscan"
+
+[[repo]]
+url = "https://github.com/bandprotocol/cosmwasm-std-reference-doc"
+
+[[repo]]
+url = "https://github.com/bandprotocol/cross-chain-hackthon"
+
+[[repo]]
+url = "https://github.com/bandprotocol/data-source-runtime"
+
+[[repo]]
+url = "https://github.com/bandprotocol/developer-portal"
+
+[[repo]]
+url = "https://github.com/bandprotocol/devnet-launch"
+
+[[repo]]
+url = "https://github.com/bandprotocol/exported-guanyu-genesis"
+
+[[repo]]
+url = "https://github.com/bandprotocol/genesisTransactions"
+
+[[repo]]
+url = "https://github.com/bandprotocol/go-owasm"
+
+[[repo]]
+url = "https://github.com/bandprotocol/goldcdp"
+
+[[repo]]
+url = "https://github.com/bandprotocol/governance-portal"
+
+[[repo]]
+url = "https://github.com/bandprotocol/js-client"
+
+[[repo]]
+url = "https://github.com/bandprotocol/kava"
+
+[[repo]]
+url = "https://github.com/bandprotocol/kovan-stdref-subgraph"
+
+[[repo]]
+url = "https://github.com/bandprotocol/kovan-stdref-subgraph-v2"
+
+[[repo]]
+url = "https://github.com/bandprotocol/launch"
+
+[[repo]]
+url = "https://github.com/bandprotocol/ledger-bandchain"
+
+[[repo]]
+url = "https://github.com/bandprotocol/libra-web"
+
+[[repo]]
+url = "https://github.com/bandprotocol/migration-test"
+
+[[repo]]
+url = "https://github.com/bandprotocol/monitoring-config"
+
+[[repo]]
+url = "https://github.com/bandprotocol/near-poc"
+
+[[repo]]
+url = "https://github.com/bandprotocol/owasm"
+
+[[repo]]
+url = "https://github.com/bandprotocol/owasm-boilerplate"
+
+[[repo]]
+url = "https://github.com/bandprotocol/pd-gateway"
+
+[[repo]]
+url = "https://github.com/bandprotocol/pyband"
+
+[[repo]]
+url = "https://github.com/bandprotocol/pylibra"
+
+[[repo]]
+url = "https://github.com/bandprotocol/python-client"
+
+[[repo]]
+url = "https://github.com/bandprotocol/reason-boilerplate"
+
+[[repo]]
+url = "https://github.com/bandprotocol/relayer"
+
+[[repo]]
+url = "https://github.com/bandprotocol/resolver"
+
+[[repo]]
+url = "https://github.com/bandprotocol/scan-temp"
+
+[[repo]]
+url = "https://github.com/bandprotocol/simple-twitter-tip-bot"
+
+[[repo]]
+url = "https://github.com/bandprotocol/solidity-101-code-example"
+
+[[repo]]
+url = "https://github.com/bandprotocol/starport-consumer"
+
+[[repo]]
+url = "https://github.com/bandprotocol/tendermint"
+
+[[repo]]
+url = "https://github.com/bandprotocol/terra-oracle"
+
+[[repo]]
+url = "https://github.com/bandprotocol/terra_oracle_voter"
+
+[[repo]]
+url = "https://github.com/bandprotocol/token-profile"
+
+[[repo]]
+url = "https://github.com/bandprotocol/wallet-browser-extension"
+
+[[repo]]
+url = "https://github.com/bandprotocol/whitepaper-legacy"

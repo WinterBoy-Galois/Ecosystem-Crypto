@@ -1,0 +1,28 @@
+# Ecosystem Level Information
+title = "Mercury"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/SigwoTechnologies"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/SigwoTechnologies/explorer"
+
+[[repo]]
+url = "https://github.com/SigwoTechnologies/jupiter"
+
+[[repo]]
+url = "https://github.com/SigwoTechnologies/jupiter-explorer"
+
+[[repo]]
+url = "https://github.com/SigwoTechnologies/jupiter-gravity"
+
+[[repo]]
+url = "https://github.com/SigwoTechnologies/metis-app"
+
+[[repo]]
+url = "https://github.com/SigwoTechnologies/obsr-explorer"
+
+[[repo]]
+url = "https://github.com/SigwoTechnologies/wagerr-explorer"

@@ -1,0 +1,28 @@
+# Ecosystem Level Information
+title = "indaHash"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/indahash"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/indahash/indaHashToken"
+
+[[repo]]
+url = "https://github.com/indahash/livespace"
+
+[[repo]]
+url = "https://github.com/indahash/mailer"
+
+[[repo]]
+url = "https://github.com/indahash/NotificationPusher"
+
+[[repo]]
+url = "https://github.com/indahash/odoo13"
+
+[[repo]]
+url = "https://github.com/indahash/php-resque"
+
+[[repo]]
+url = "https://github.com/indahash/ZendService_Apple_Apns"

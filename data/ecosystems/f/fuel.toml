@@ -1,0 +1,37 @@
+# Ecosystem Level Information
+title = "Fuel"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/FuelLabs"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/FuelLabs/docs"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-burner-plugin"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-burner-wallet"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-core"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-js"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-v1-contracts"
+
+[[repo]]
+url = "https://github.com/FuelLabs/reddit-cash"
+
+[[repo]]
+url = "https://github.com/FuelLabs/reddit-wallet"
+
+[[repo]]
+url = "https://github.com/FuelLabs/yulp"

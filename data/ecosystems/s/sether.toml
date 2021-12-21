@@ -1,0 +1,121 @@
+# Ecosystem Level Information
+title = "Sether"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/mware-solutions"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/mware-solutions/accumulo"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bc-ai-server"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bc-docker-dev-env"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bc-gremlin"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bc-java-driver"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bc-tools"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bigconnect"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bigconnect-answers"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bigconnect-discovery"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bigconnect-docs"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bigconnect-idm"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bigconnect-plugin-template"
+
+[[repo]]
+url = "https://github.com/mware-solutions/bigconnect-web"
+
+[[repo]]
+url = "https://github.com/mware-solutions/cypher-lab"
+
+[[repo]]
+url = "https://github.com/mware-solutions/discovery-spark-engine"
+
+[[repo]]
+url = "https://github.com/mware-solutions/doc-examples"
+
+[[repo]]
+url = "https://github.com/mware-solutions/dw-plugins"
+
+[[repo]]
+url = "https://github.com/mware-solutions/dw-scripts"
+
+[[repo]]
+url = "https://github.com/mware-solutions/gess"
+
+[[repo]]
+url = "https://github.com/mware-solutions/h2o-3"
+
+[[repo]]
+url = "https://github.com/mware-solutions/h2o-flow"
+
+[[repo]]
+url = "https://github.com/mware-solutions/h2o-flow-old"
+
+[[repo]]
+url = "https://github.com/mware-solutions/ico"
+
+[[repo]]
+url = "https://github.com/mware-solutions/icosite"
+
+[[repo]]
+url = "https://github.com/mware-solutions/le11-nls"
+
+[[repo]]
+url = "https://github.com/mware-solutions/memory-graph"
+
+[[repo]]
+url = "https://github.com/mware-solutions/osscli"
+
+[[repo]]
+url = "https://github.com/mware-solutions/pentaho-plugin"
+
+[[repo]]
+url = "https://github.com/mware-solutions/presto"
+
+[[repo]]
+url = "https://github.com/mware-solutions/react-resizable"
+
+[[repo]]
+url = "https://github.com/mware-solutions/sdc-bc"
+
+[[repo]]
+url = "https://github.com/mware-solutions/sether"
+
+[[repo]]
+url = "https://github.com/mware-solutions/sether-api"
+
+[[repo]]
+url = "https://github.com/mware-solutions/sether-example-app"
+
+[[repo]]
+url = "https://github.com/mware-solutions/sether-sgx"
+
+[[repo]]
+url = "https://github.com/mware-solutions/sql-editor"
+
+[[repo]]
+url = "https://github.com/mware-solutions/tinyproxy"
+
+[[repo]]
+url = "https://github.com/mware-solutions/updeep"

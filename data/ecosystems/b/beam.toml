@@ -1,0 +1,211 @@
+# Ecosystem Level Information
+title = "Beam"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/BeamMW"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/BeamMW/android-wallet"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-anywhere-relay"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-audit"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-bridge-app"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-bridge-ethapp"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-bridge-ethpipe"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-bridge-ethrelay"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-bridge-pipe"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-cuda-miner"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-dapps"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-docs"
+
+[[repo]]
+url = "https://github.com/BeamMW/Beam-Mirror-Wallet"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-parachain"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-polkadot-frontend"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-ui"
+
+[[repo]]
+url = "https://github.com/BeamMW/blake2-solidity"
+
+[[repo]]
+url = "https://github.com/BeamMW/blockex"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost-android"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost-ios"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost-ios-simulator"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost-linux"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost-osx"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_1_75_0-ubuntu-16.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_1_75_0-ubuntu-18.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_1_75_0-ubuntu-20.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_macos-10.15"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_ubuntu-16.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_ubuntu-18.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_ubuntu-20.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_windows-2019"
+
+[[repo]]
+url = "https://github.com/BeamMW/cuda-miner"
+
+[[repo]]
+url = "https://github.com/BeamMW/dao-core"
+
+[[repo]]
+url = "https://github.com/BeamMW/dao-core-app"
+
+[[repo]]
+url = "https://github.com/BeamMW/eth-object"
+
+[[repo]]
+url = "https://github.com/BeamMW/eth_swap_contracts"
+
+[[repo]]
+url = "https://github.com/BeamMW/ios-wallet"
+
+[[repo]]
+url = "https://github.com/BeamMW/libs"
+
+[[repo]]
+url = "https://github.com/BeamMW/opencl-miner"
+
+[[repo]]
+url = "https://github.com/BeamMW/openssl-android"
+
+[[repo]]
+url = "https://github.com/BeamMW/openssl-ios"
+
+[[repo]]
+url = "https://github.com/BeamMW/openssl-wasm"
+
+[[repo]]
+url = "https://github.com/BeamMW/plugin-dao-core"
+
+[[repo]]
+url = "https://github.com/BeamMW/plugin-faucet"
+
+[[repo]]
+url = "https://github.com/BeamMW/plugin-red-envelope"
+
+[[repo]]
+url = "https://github.com/BeamMW/plugin-staking"
+
+[[repo]]
+url = "https://github.com/BeamMW/plugin-vault"
+
+[[repo]]
+url = "https://github.com/BeamMW/plugin-voting"
+
+[[repo]]
+url = "https://github.com/BeamMW/python-trezor"
+
+[[repo]]
+url = "https://github.com/BeamMW/qhttpengine"
+
+[[repo]]
+url = "https://github.com/BeamMW/qt5.15.2-static-linux"
+
+[[repo]]
+url = "https://github.com/BeamMW/qt5.15.2-static-ubuntu-16.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/qt5.15.2-static-ubuntu-18.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/qt5.15.2-static-ubuntu-20.04"
+
+[[repo]]
+url = "https://github.com/BeamMW/qt5.15.2-static-Windows"
+
+[[repo]]
+url = "https://github.com/BeamMW/roadmap"
+
+[[repo]]
+url = "https://github.com/BeamMW/shader-sdk"
+
+[[repo]]
+url = "https://github.com/BeamMW/slips"
+
+[[repo]]
+url = "https://github.com/BeamMW/trezor-common"
+
+[[repo]]
+url = "https://github.com/BeamMW/trezor-core"
+
+[[repo]]
+url = "https://github.com/BeamMW/trezor-cpp-client"
+
+[[repo]]
+url = "https://github.com/BeamMW/trezor-crypto"
+
+[[repo]]
+url = "https://github.com/BeamMW/trezor-firmware"
+
+[[repo]]
+url = "https://github.com/BeamMW/wallet-manager"
+
+[[repo]]
+url = "https://github.com/BeamMW/wallet-service"
+
+[[repo]]
+url = "https://github.com/BeamMW/wasi-sdk"
+
+[[repo]]
+url = "https://github.com/BeamMW/web-wallet"
+
+[[repo]]
+url = "https://github.com/BeamMW/web-wallet-angular"

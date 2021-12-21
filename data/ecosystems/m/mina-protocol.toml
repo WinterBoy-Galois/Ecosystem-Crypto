@@ -1,0 +1,313 @@
+# Ecosystem Level Information
+title = "Mina Protocol"
+
+sub_ecosystems = []
+
+github_organizations = [
+  "https://github.com/CodaProtocol",
+  "https://github.com/MinaProtocol",
+  "https://github.com/o1-labs",
+]
+
+# Repositories
+[[repo]]
+url = "https://github.com/CodaProtocol/async_kernel"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/coda"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/CodaProtocol/coda-automation"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/coda-devops-interview"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/coda-grants"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/coda-python-client"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/cuda-fixnum"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/digestif"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/gpu-groth16-prover-3x"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/graphiql-with-extensions"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/homebrew-coda"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/homebrew-coda-qa"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/kademlia"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/ledger-coda-app"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/ocaml-extlib"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/orocksdb"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/pairing"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/ppx_deriving"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/ppx_optcomp"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/rosetta-cli"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/rosetta-sdk-go"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/rosetta-specifications"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/rpc_parallel"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/signer-reference"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/snark-challenge"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/snark-challenge-cuda-starter"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/snark-challenge-prover-reference"
+
+[[repo]]
+url = "https://github.com/CodaProtocol/testnetc2"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/async_kernel"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/c-reference-signer"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/coda-automation"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/coda-devops-interview"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/coda-python-client"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/cuda-fixnum"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/digestif"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/docs"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/gpu-groth16-prover-3x"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/graphiql-with-extensions"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/homebrew-coda"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/homebrew-mina"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/issues-experiment"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/kademlia"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/ledger-coda-app"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/mina"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/MinaProtocol/mina-grants"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/ocaml-extlib"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/orocksdb"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/pairing"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/ppx_deriving"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/ppx_deriving_yojson"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/ppx_optcomp"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/progress"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/prometheus"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/rosetta-cli"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/rosetta-sdk-go"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/rosetta-specifications"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/rpc_parallel"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/signer-reference"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/snark-challenge"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/snark-challenge-cuda-starter"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/snark-challenge-prover-reference"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/testnetc2"
+
+[[repo]]
+url = "https://github.com/MinaProtocol/website"
+
+[[repo]]
+url = "https://github.com/o1-labs/anonvote"
+
+[[repo]]
+url = "https://github.com/o1-labs/ate-pairing"
+
+[[repo]]
+url = "https://github.com/o1-labs/capnp-ocaml"
+
+[[repo]]
+url = "https://github.com/o1-labs/coda-devcon-testnet-demo"
+
+[[repo]]
+url = "https://github.com/o1-labs/coda-workshop"
+
+[[repo]]
+url = "https://github.com/o1-labs/crypto"
+
+[[repo]]
+url = "https://github.com/o1-labs/docs2"
+
+[[repo]]
+url = "https://github.com/o1-labs/graphql_ppx"
+
+[[repo]]
+url = "https://github.com/o1-labs/hellocoda"
+
+[[repo]]
+url = "https://github.com/o1-labs/integers_stubs_js"
+
+[[repo]]
+url = "https://github.com/o1-labs/libff"
+
+[[repo]]
+url = "https://github.com/o1-labs/libfqfft"
+
+[[repo]]
+url = "https://github.com/o1-labs/libsnark-ocaml"
+
+[[repo]]
+url = "https://github.com/o1-labs/marlin"
+
+[[repo]]
+url = "https://github.com/o1-labs/mina-book"
+
+[[repo]]
+url = "https://github.com/o1-labs/mina-chrome-extension"
+
+[[repo]]
+url = "https://github.com/o1-labs/mina-web3"
+
+[[repo]]
+url = "https://github.com/o1-labs/ocaml-rs"
+
+[[repo]]
+url = "https://github.com/o1-labs/ocamlbyexample"
+
+[[repo]]
+url = "https://github.com/o1-labs/opam-repository"
+
+[[repo]]
+url = "https://github.com/o1-labs/ppx_bin_prot"
+
+[[repo]]
+url = "https://github.com/o1-labs/ppx_version"
+
+[[repo]]
+url = "https://github.com/o1-labs/proof-systems"
+
+[[repo]]
+url = "https://github.com/o1-labs/Setup"
+
+[[repo]]
+url = "https://github.com/o1-labs/sfbw-workshop"
+
+[[repo]]
+url = "https://github.com/o1-labs/snapp-cli"
+
+[[repo]]
+url = "https://github.com/o1-labs/snarkette"
+
+[[repo]]
+url = "https://github.com/o1-labs/snarky"
+
+[[repo]]
+url = "https://github.com/o1-labs/snarky-bn382"
+
+[[repo]]
+url = "https://github.com/o1-labs/snarkyjs"
+
+[[repo]]
+url = "https://github.com/o1-labs/snarkyjs-crypto"
+
+[[repo]]
+url = "https://github.com/o1-labs/snarkyjs-examples"
+
+[[repo]]
+url = "https://github.com/o1-labs/stationary"
+
+[[repo]]
+url = "https://github.com/o1-labs/vim-reasonml"
+
+[[repo]]
+url = "https://github.com/o1-labs/wasm-bindgen-rayon"
+
+[[repo]]
+url = "https://github.com/o1-labs/xbyak"
+
+[[repo]]
+url = "https://github.com/o1-labs/zexe"

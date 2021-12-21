@@ -1,0 +1,271 @@
+# Ecosystem Level Information
+title = "Agoric"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Agoric"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Agoric/acorn-eventual-send"
+
+[[repo]]
+url = "https://github.com/Agoric/acorn-infix-bang"
+
+[[repo]]
+url = "https://github.com/Agoric/ag-solo"
+
+[[repo]]
+url = "https://github.com/Agoric/agoric"
+
+[[repo]]
+url = "https://github.com/Agoric/agoric-sdk"
+
+[[repo]]
+url = "https://github.com/Agoric/autoswap-frontend"
+
+[[repo]]
+url = "https://github.com/Agoric/babel"
+
+[[repo]]
+url = "https://github.com/Agoric/babel-eslint"
+
+[[repo]]
+url = "https://github.com/Agoric/bundle-source"
+
+[[repo]]
+url = "https://github.com/Agoric/captp"
+
+[[repo]]
+url = "https://github.com/Agoric/cosmic-swingset"
+
+[[repo]]
+url = "https://github.com/Agoric/cosmic-workspace"
+
+[[repo]]
+url = "https://github.com/Agoric/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/Agoric/cross-chain-hackathon"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-autoswap"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-card-store"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-encouragement"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-fungible-faucet"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-nft-drop"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-oracle"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-otc"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-pegasus"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-simple-exchange"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-skeleton"
+
+[[repo]]
+url = "https://github.com/Agoric/dapp-treasury"
+
+[[repo]]
+url = "https://github.com/Agoric/default-evaluate-options"
+
+[[repo]]
+url = "https://github.com/Agoric/Documentation"
+
+[[repo]]
+url = "https://github.com/Agoric/error-stack-shim"
+
+[[repo]]
+url = "https://github.com/Agoric/ERTP"
+
+[[repo]]
+url = "https://github.com/Agoric/eslint-config-jessie"
+
+[[repo]]
+url = "https://github.com/Agoric/eslint-config-rule-tester"
+
+[[repo]]
+url = "https://github.com/Agoric/evaluate"
+
+[[repo]]
+url = "https://github.com/Agoric/evaluator-shim"
+
+[[repo]]
+url = "https://github.com/Agoric/eventual-send"
+
+[[repo]]
+url = "https://github.com/Agoric/faucet"
+
+[[repo]]
+url = "https://github.com/Agoric/harden"
+
+[[repo]]
+url = "https://github.com/Agoric/insecure-evaluate"
+
+[[repo]]
+url = "https://github.com/Agoric/jessica"
+
+[[repo]]
+url = "https://github.com/Agoric/Jessie"
+
+[[repo]]
+url = "https://github.com/Agoric/JessieProxy"
+
+[[repo]]
+url = "https://github.com/Agoric/layer-cake"
+
+[[repo]]
+url = "https://github.com/Agoric/make-flowcomm"
+
+[[repo]]
+url = "https://github.com/Agoric/make-hardener"
+
+[[repo]]
+url = "https://github.com/Agoric/make-importer"
+
+[[repo]]
+url = "https://github.com/Agoric/marshal"
+
+[[repo]]
+url = "https://github.com/Agoric/metamask-extension"
+
+[[repo]]
+url = "https://github.com/Agoric/moddable"
+
+[[repo]]
+url = "https://github.com/Agoric/nat"
+
+[[repo]]
+url = "https://github.com/Agoric/new-repo"
+
+[[repo]]
+url = "https://github.com/Agoric/playground-cosmos"
+
+[[repo]]
+url = "https://github.com/Agoric/PlaygroundVat"
+
+[[repo]]
+url = "https://github.com/Agoric/Pledger"
+
+[[repo]]
+url = "https://github.com/Agoric/project-guidelines"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-deletable-extensions"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-deterministic-js"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-eventual-send"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-frozen-realms"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-infix-bang"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-oom-fails-fast"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-petrify"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-preserve-virtualizability"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-readonly-collections"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-realms"
+
+[[repo]]
+url = "https://github.com/Agoric/proposal-wavy-dot"
+
+[[repo]]
+url = "https://github.com/Agoric/readonly-collections-shim"
+
+[[repo]]
+url = "https://github.com/Agoric/realms-shim"
+
+[[repo]]
+url = "https://github.com/Agoric/safe-modules"
+
+[[repo]]
+url = "https://github.com/Agoric/sandbox-frame"
+
+[[repo]]
+url = "https://github.com/Agoric/SES"
+
+[[repo]]
+url = "https://github.com/Agoric/SES-beta"
+
+[[repo]]
+url = "https://github.com/Agoric/SES-shim"
+
+[[repo]]
+url = "https://github.com/Agoric/simple-exchange-frontend"
+
+[[repo]]
+url = "https://github.com/Agoric/solo-main"
+
+[[repo]]
+url = "https://github.com/Agoric/stayinghomeclub"
+
+[[repo]]
+url = "https://github.com/Agoric/substrate-node-template"
+
+[[repo]]
+url = "https://github.com/Agoric/SwingSet"
+
+[[repo]]
+url = "https://github.com/Agoric/SwingSet.rs"
+
+[[repo]]
+url = "https://github.com/Agoric/SwingSetFactory"
+
+[[repo]]
+url = "https://github.com/Agoric/testnet-load-generator"
+
+[[repo]]
+url = "https://github.com/Agoric/testnet-notes"
+
+[[repo]]
+url = "https://github.com/Agoric/testnet-postmortem-data"
+
+[[repo]]
+url = "https://github.com/Agoric/transform-bang"
+
+[[repo]]
+url = "https://github.com/Agoric/transform-default"
+
+[[repo]]
+url = "https://github.com/Agoric/transform-eventual-send"
+
+[[repo]]
+url = "https://github.com/Agoric/transform-module"
+
+[[repo]]
+url = "https://github.com/Agoric/wallet-frontend"
+
+[[repo]]
+url = "https://github.com/Agoric/Web3-collaboration"
+
+[[repo]]
+url = "https://github.com/Agoric/zoe-sketchbook"

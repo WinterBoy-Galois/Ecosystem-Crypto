@@ -1,0 +1,34 @@
+# Ecosystem Level Information
+title = "Lisk Machine Learning"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/GNYIO"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/GNYIO/actions-fast-forward-merge"
+
+[[repo]]
+url = "https://github.com/GNYIO/github-sync-ssh"
+
+[[repo]]
+url = "https://github.com/GNYIO/gny"
+
+[[repo]]
+url = "https://github.com/GNYIO/gny-dist"
+
+[[repo]]
+url = "https://github.com/GNYIO/gny-docs"
+
+[[repo]]
+url = "https://github.com/GNYIO/gny-explorer"
+
+[[repo]]
+url = "https://github.com/GNYIO/gny-token"
+
+[[repo]]
+url = "https://github.com/GNYIO/gny-wallet"
+
+[[repo]]
+url = "https://github.com/GNYIO/GNYPLUGIN"

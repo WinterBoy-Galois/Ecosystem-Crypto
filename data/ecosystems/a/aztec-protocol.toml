@@ -1,0 +1,113 @@
+# Ecosystem Level Information
+title = "Aztec Protocol"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/AztecProtocol"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/AztecProtocol/AZTEC"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-2-bug-bounty"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-crypto-js"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-demo-js"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-ganache-starter-kit"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/barretenberg"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/bn"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/burner-wallet"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/confidential-tokens"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/consolerr"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/defi-bridge-hackathon"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/developer-extension"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/EIPs"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/eth-global-starter-kit"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/eth-india-starter-kit"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/evmone"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/guacamole-ui"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/huff"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/ignition-verification"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/interview-test"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/interview-tests"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/libff"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/loan-dapp-starter-kit"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/multi-semantic-release"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/Oliver"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/parity-ethereum"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/perpetualpowersoftau"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/plonk-with-lookups"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/polaris"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/sdk-starter-kit"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/Setup"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/snark-benchmarks"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/specification"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/weierstrudel"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/zkether"

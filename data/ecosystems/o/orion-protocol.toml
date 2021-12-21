@@ -1,0 +1,82 @@
+# Ecosystem Level Information
+title = "Orion Protocol"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/orionprotocol"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/orionprotocol/eth-phishing-detect"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-api-docs"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-atomic"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-backend"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-blockchain"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-broker"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-connectors"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-exchange"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-exchange-elrond"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-holochain"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-liquidity-mining"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-nfts"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-pool-sdk"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-py-connector"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-site"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-ui-kit"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orion-wanchain"
+
+[[repo]]
+url = "https://github.com/orionprotocol/orn-liquidity-mining-ui"
+
+[[repo]]
+url = "https://github.com/orionprotocol/price-feed"
+
+[[repo]]
+url = "https://github.com/orionprotocol/price-feed-go"
+
+[[repo]]
+url = "https://github.com/orionprotocol/swap-server"
+
+[[repo]]
+url = "https://github.com/orionprotocol/trading-sdk"
+
+[[repo]]
+url = "https://github.com/orionprotocol/trading-terminal"
+
+[[repo]]
+url = "https://github.com/orionprotocol/web3-react"
+
+[[repo]]
+url = "https://github.com/orionprotocol/wiki"
